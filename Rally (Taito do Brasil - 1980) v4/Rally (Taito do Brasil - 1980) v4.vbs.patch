@@ -1,0 +1,32 @@
+--- "Rally (Taito do Brasil - 1980) v4.vbs.original"	2024-02-28 17:34:08.305198105 +0100
++++ "Rally (Taito do Brasil - 1980) v4.vbs"	2024-02-28 17:31:35.260986589 +0100
+@@ -60,7 +60,7 @@
+ '************
+ 
+ Sub table1_Init
+-    NVramPatchLoad
++    'NVramPatchLoad
+     vpmInit me
+     With Controller
+         .GameName = cGameName
+@@ -137,7 +137,10 @@
+ 
+ Sub table1_Paused:Controller.Pause = 1:End Sub
+ Sub table1_unPaused:Controller.Pause = 0:End Sub
+-Sub table1_exit:NVramPatchExit:Controller.stop:End Sub
++Sub table1_exit
++    'NVramPatchExit
++    Controller.stop
++End Sub
+ 
+ '**********
+ ' Keys
+@@ -423,7 +426,7 @@
+     End If
+     UpdateLeds
+     UpdateLamps
+-    NVramPatchKeyCheck
++    'NVramPatchKeyCheck
+ End Sub
+ 
+ Sub UpdateLamps()
