@@ -5,7 +5,7 @@ ordered by frequency (most frequent issue first).
 Each section lists the scripts affected by that issue.
 
 **Total patch files analyzed:** 323  
-**Total issue categories:** 51  
+**Total issue categories:** 50  
 **Total issue occurrences across all scripts:** 349  
 
 ---
@@ -104,17 +104,18 @@ Affected scripts:
 - Viking (Bally 1980).vbs
 - fireball II VPX.vbs
 
-## Arithmetic expression as first argument of a procedure call
+## Parenthesis on first argument of a procedure call not handled correctly by Wine VBScript
 
-**Affected patches: 61**
+**Affected patches: 67**
 
-When the first argument of a Sub/procedure call starts with `(`, VBScript parses it as a call with explicit parentheses. Any arithmetic continuing after the closing `)` is evaluated separately and discarded. Example: `AddScore (a+b)*c` is parsed as `AddScore(a+b)` then `*c` is discarded. Fix: rearrange the expression so it does not start with `(`, or wrap the entire expression in an extra pair of parentheses.
+When the first argument of a Sub/procedure call starts with `(`, Wine's VBScript parses it as a call with explicit parentheses and treats the rest of the expression as a separate statement. Any arithmetic that continues after the closing `)` is evaluated separately and discarded. Example: `AddScore (a+b)*c` is parsed as `AddScore(a+b)` then `*c` is discarded. The same rule applies inside `ExecuteGlobal` strings — `SetLamp (me.UserValue - INT(me.UserValue)) * 100` becomes `SetLamp (me.UserValue - INT(me.UserValue))` with the `* 100` thrown away. Fix: rearrange the expression so it does not start with `(`, or move the multiplier to the front, e.g. `AddScore (a+b)*c` → `AddScore c*(a+b)`, or wrap the entire expression in double parentheses.
 
 Affected scripts:
 
 - 2104398928_CARtoonsRC(Nailed2021)v1.3.vbs
 - A Charlie Brown Christmas feat. Vince Guaraldi (iDigStuff 2023).vbs
 - Aladdin's Castle (Bally 1976) - DOZER - MJR_1.01.vbs
+- Attack On Titan (cHuG_MOD_1.4).vbs
 - Ben-Hur (Staal 1977) V1.1.1 DT-FS-VR-MR Ext2k Conversion.vbs
 - Big Deal (Williams 1977)V2.1.vbs
 - Big Horse (Maresa 1975) v55_VPX8.vbs
@@ -133,6 +134,7 @@ Affected scripts:
 - Gemini (Gottlieb 1978).vbs
 - Gun Men (Staal 1979).vbs
 - HALO.vbs
+- Hellraiser 1.2.vbs
 - Honey (Williams 1971)V1.3.vbs
 - Indiana Jones (Stern 2008)-Hanibal-2.6.vbs
 - Inhabiting Mars RC 4.vbs
@@ -140,6 +142,7 @@ Affected scripts:
 - Lightning Ball (Gottlieb 1959).vbs
 - Luck Smile (Inder 1976) 1p v55_VPX8.vbs
 - Luck Smile (Inder 1976) 4p v55_VPX8.vbs
+- Mago de Oz - the pinball v4.3.vbs
 - Metal Slug_1.05.vbs
 - Monaco (Segasa 1977)V1.4.vbs
 - Monkey Island VR Room.vbs
@@ -165,8 +168,11 @@ Affected scripts:
 - The Grinch (Original 2022) pinballfan2018.vbs
 - TheATeam.vbs
 - Van Halen 1.2.vbs
+- indochinecentral.vbs
+- indochinecentralPUP.vbs
 - monkeyisland.vbs
 - pizzatime-65.vbs
+- pulp_fiction.vbs
 - speakeasy2.vbs
 - speakeasy4.vbs
 - wackyraces.vbs
@@ -359,21 +365,6 @@ Affected scripts:
 - Iron Man Vault Edition (Stern 2010) VPW v1.0.vbs
 - Laser War (Data East 1987) w VR Room v2.0.vbs
 - X-Men LE (Stern 2012) VPW v1.0.vbs
-
-## ExecuteGlobal SetLamp arithmetic expression order fix
-
-**Affected patches: 6**
-
-Inside an `ExecuteGlobal` string, `SetLamp (me.UserValue - INT(me.UserValue)) * 100` is parsed incorrectly due to the arithmetic-as-first-argument rule. Fix: swap the multiplication order to `SetLamp 100 * (me.UserValue - INT(me.UserValue))`.
-
-Affected scripts:
-
-- Attack On Titan (cHuG_MOD_1.4).vbs
-- Hellraiser 1.2.vbs
-- Mago de Oz - the pinball v4.3.vbs
-- indochinecentral.vbs
-- indochinecentralPUP.vbs
-- pulp_fiction.vbs
 
 ## File path case sensitivity fix (Linux filesystem)
 
