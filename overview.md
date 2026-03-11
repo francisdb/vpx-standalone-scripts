@@ -18,91 +18,91 @@ Drop targets and standup targets were initialized as plain arrays (e.g. `DT1 = A
 
 Affected scripts:
 
-- [1342729923_RollerCoasterTycoon(Stern2002)1.3.vbs](1342729923_RollerCoasterTycoon%28Stern2002%291.3/1342729923_RollerCoasterTycoon%28Stern2002%291.3.vbs#L3168)
-- [2001 (Gottlieb 1971) v0.99a.vbs](2001%20%28Gottlieb%201971%29%20v0.99a/2001%20%28Gottlieb%201971%29%20v0.99a.vbs#L5025)
-- [AC-DC LUCI Premium VR (Stern 2013) v1.1.3.vbs](AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3/AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3.vbs#L330)
-- [Alien Poker (Williams 1980).vbs](AlienPoker%28Williams1980%291.0/Alien%20Poker%20%28Williams%201980%29.vbs#L1935)
-- [Apollo 13 (Sega 1995) w VR Room v2.1.1.vbs](Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1/Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1.vbs#L2624)
-- [Atlantis (Bally 1989) w VR Room v2.0.vbs](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs#L3029)
-- [Barracora (Williams 1981) w VR Room v2.1.3.vbs](Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3/Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3.vbs#L2022)
-- [Batman Forever (Sega 1995) 1.3.vbs](Batman%20Forever%20%28Sega%201995%29%201.3/Batman%20Forever%20%28Sega%201995%29%201.3.vbs#L3518)
-- [Batman [The Dark Knight] (Stern 2008) 1.16.vbs](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16.vbs#L905)
-- [Batman [The Dark Knight] (Stern 2008) v1.0.8.vbs](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8.vbs#L824)
-- [Batman [The Dark Knight] (Stern 2008).vbs](BatmanTheDarkKnight%28Stern2008%29bordmod1.0.7/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29.vbs#L823)
-- [BeastieBoysv1.0.vbs](BeastieBoysv1.0/BeastieBoysv1.0.vbs#L100)
-- [Black Knight (Williams 1980).vbs](Black%20Knight%20%28Williams%201980%29/Black%20Knight%20%28Williams%201980%29.vbs#L896)
-- [Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs#L2687)
-- [Blackout (Williams 1980) v1.0.1 - SBR34.vbs](Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34/Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34.vbs#L1888)
-- [Blood Machines 2.0.vbs](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs#L205)
-- [Bounty Hunter (Gottlieb 1985).vbs](Bounty%20Hunter%20%28Gottlieb%201985%29/Bounty%20Hunter%20%28Gottlieb%201985%29.vbs#L1420)
-- [Cactus Canyon (Bally 1998) VPW 1.1.vbs](Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1/Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1.vbs#L108)
-- [Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs#L1544)
-- [Capt. Fantastic and The Brown Dirt Cowboy (Bally 1976) 2.0.2.vbs](Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2/Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2.vbs#L3871)
-- [Centaur (Bally 1981).vbs](Centaur%20%28Bally%201981%29/Centaur%20%28Bally%201981%29.vbs#L2069)
-- [Centigrade 37 (Gottlieb 1977).vbs](Centigrade%2037%20%28Gottlieb%201977%29/Centigrade%2037%20%28Gottlieb%201977%29.vbs#L3290)
-- [Checkpoint (Data East 1991)2.0.vbs](Checkpoint%20%28Data%20East%201991%292.0/Checkpoint%20%28Data%20East%201991%292.0.vbs#L2301)
-- [Comet (Williams 1985) w VR Room v2.3.vbs](Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3/Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3.vbs#L2233)
-- [Cue Ball Wizard (Gottlieb 1992) v1.1.2.vbs](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs#L1503)
-- [Diner (Williams 1990) VPW Mod 1.0.2.vbs](Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2/Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2.vbs#L4176)
-- [Doctor Who (Bally 1992) VPW Mod v1.1.vbs](Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1/Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1.vbs#L1111)
-- [Dracula (Stern 1979).vbs](Dracula%20%28Stern%201979%292.1.1/Dracula%20%28Stern%201979%29.vbs#L60)
-- [Elektra (Bally 1981) w VR Room v2.0.7.vbs](Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7/Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7.vbs#L2205)
-- [Elvis_MOD_2.0.vbs](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs#L626)
-- [Family Guy 1.0.vbs](Family%20Guy%201.0/Family%20Guy%201.0.vbs#L3797)
-- [Flash (Williams 1979).vbs](Flash%20%28Williams%201979%29/Flash%20%28Williams%201979%29.vbs#L2124)
-- [Fog, The (Gottlieb 1979) v2.5 for 10.7.vbs](Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7/Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7.vbs#L3380)
-- [Galaxy (Stern 1980).vbs](Galaxy%20%28Stern%201980%29/Galaxy%20%28Stern%201980%29.vbs#L3083)
-- [Game of Thrones LE (Stern 2015) VPW v1.0.2.vbs](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs#L8960)
-- [Genie (Gottlieb 1979).vbs](Genie%20%28Gottlieb%201979%29/Genie%20%28Gottlieb%201979%29.vbs#L408)
-- [Gorgar_1.1.vbs](Gorgar_1.1/Gorgar_1.1.vbs#L2747)
-- [Halloween 1978-1981 (Original 2022) 1.03.vbs](Halloween%201978-1981%20%28Original%202022%29%201.03/Halloween%201978-1981%20%28Original%202022%29%201.03.vbs#L3670)
-- [Hang Glider (Bally 1976) VPW v1.2.vbs](Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2/Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2.vbs#L1420)
-- [Harlem Globetrotters (Bally 1979) v1.14.vbs](Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14/Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14.vbs#L3055)
-- [Harley Davidson (Sega 1999) v1.12.vbs](Harley%20Davidson%20%28Sega%201999%29%20v1.12/Harley%20Davidson%20%28Sega%201999%29%20v1.12.vbs#L618)
-- [Heat Wave (Williams 1964).vbs](HeatWave%28Williams1964%291.0/Heat%20Wave%20%28Williams%201964%29.vbs#L1988)
-- [Indiana Jones The Pinball Adventure (Williams 1993) VPWmod v1.1.vbs](Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1/Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1.vbs#L4357)
-- [Iron Maiden (Original 2022) VPW 1.0.12.vbs](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs#L7957)
-- [Iron Man Vault Edition (Stern 2010) VPW v1.0.vbs](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs#L3280)
-- [Jack-Bot (Williams 1995).vbs](Jack-Bot%20%28Williams%201995%29/Jack-Bot%20%28Williams%201995%29.vbs#L3570)
-- [Jive Time (Williams 1970) 2.0.vbs](Jive%20Time%20%28Williams%201970%29%202.0/Jive%20Time%20%28Williams%201970%29%202.0.vbs#L777)
-- [Joker Poker EM (Gottlieb 1978) 1.6.vbs](Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6/Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6.vbs#L2948)
-- [Judge Dredd (Bally 1993) VPW v1.1.vbs](Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1/Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1.vbs#L3045)
-- [Jungle Lord (Williams 1981) w VR Room v2.01.vbs](Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01/Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01.vbs#L139)
-- [Laser Cue (Williams 1984) w VR Room 2.0.0.vbs](Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0/Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0.vbs#L1847)
-- [Laser War (Data East 1987) w VR Room v2.0.vbs](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs#L1409)
-- [Led Zeppelin Pinball 2.5.vbs](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs#L461)
-- [Magic City (Williams 1967).vbs](Magic%20City%20%28Williams%201967%291.0a/Magic%20City%20%28Williams%201967%29.vbs#L4325)
-- [Maverick (Data East 1994) VPW v1.3.vbs](Maverick%20%28Data%20East%201994%29%20VPW%20v1.3/Maverick%20%28Data%20East%201994%29%20VPW%20v1.3.vbs#L848)
-- [Medusa (Bally 1981) w VR Room v2.0.1.vbs](Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1/Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1.vbs#L2297)
-- [Meteor (Stern 1979).vbs](Meteor%20%28Stern%201979%29/Meteor%20%28Stern%201979%29.vbs#L1593)
-- [Monster Bash (Williams 1998) VPWmod v1.0.vbs](Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0/Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0.vbs#L2558)
-- [MrDoom (Recel 1979)1.3.0.vbs](MrDoom%20%28Recel%201979%291.3.0/MrDoom%20%28Recel%201979%291.3.0.vbs#L1836)
-- [MrEvil (Recel 1979)1.3.0.vbs](MrEvil%20%28Recel%201979%291.3.0/MrEvil%20%28Recel%201979%291.3.0.vbs#L1844)
-- [Nine Ball (Stern 1980).vbs](Nine%20Ball%20%28Stern%201980%29/Nine%20Ball%20%28Stern%201980%29.vbs#L1591)
-- [O Brother Where Art Thou (Zoss 2021)1_6.vbs](O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6/O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6.vbs#L2520)
-- [Pharaoh (Williams 1981) w VR Room v2.0.3.vbs](Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3/Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3.vbs#L2385)
-- [PinBlob (CLV 2024).vbs](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs#L325)
-- [PinBot (Williams 1986) 2.1.1.vbs](PinBot%20%28Williams%201986%29%202.1.1/PinBot%20%28Williams%201986%29%202.1.1.vbs#L3553)
-- [Power Play (Bally 1977).vbs](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs#L922)
-- [Robocop (Data East 1989)_drakkon(mod_1.2).vbs](Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29/Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29.vbs#L2457)
-- [Seawitch (Stern 1980).vbs](Seawitch%20%28Stern%201980%29/Seawitch%20%28Stern%201980%29.vbs#L1278)
-- [Solar Fire (Williams 1981) w VR Room v2.0.5.vbs](Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5/Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5.vbs#L2398)
-- [Space Shuttle (Williams 1984).vbs](Space%20Shuttle%20%28Williams%201984%292.0/Space%20Shuttle%20%28Williams%201984%29.vbs#L581)
-- [Star Trek (Bally 1979) 2.1.1.vbs](Star%20Trek%20%28Bally%201979%29%202.1.1/Star%20Trek%20%28Bally%201979%29%202.1.1.vbs#L731)
-- [Star Wars (Data East 1992) VPW v1.2.2.vbs](Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2/Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2.vbs#L3651)
-- [Stars (Stern 1978).vbs](Stars%20%28Stern%201978%291.0.2/Stars%20%28Stern%201978%29.vbs#L1528)
-- [Stellar Wars (Williams 1979).vbs](Stellar%20Wars%20%28Williams%201979%29/Stellar%20Wars%20%28Williams%201979%29.vbs#L2163)
-- [Stingray (Stern 1977).vbs](Stingray%20%28Stern%201977%29%202.0/Stingray%20%28Stern%201977%29.vbs#L1696)
-- [Strikes And Spares (Bally 1978) 2.0.vbs](Strikes%20And%20Spares%20%28Bally%201978%29%202.0/Strikes%20And%20Spares%20%28Bally%201978%29%202.0.vbs#L2093)
-- [Strip Joker Poker (Gottlieb 1978) 1.5.vbs](Strip-Joker-Poker-%28Gottlieb-1978%29-1.5/Strip%20Joker%20Poker%20%28Gottlieb%201978%29%201.5.vbs#L2996)
-- [Swords of Fury (Williams 1988).vbs](Swords%20of%20Fury%20%28Williams%201988%29/Swords%20of%20Fury%20%28Williams%201988%29.vbs#L610)
-- [TX-Sector (Gottlieb 1988) SG1bsoN Mod V1.1.vbs](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs#L809)
-- [Tales from the Crypt (Data East 1993) VPW v1.22.vbs](Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22/Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22.vbs#L1528)
-- [Transporter the Rescue (Midway 1989) VPW v1.05.vbs](Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05/Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05.vbs#L3331)
-- [Twilight Zone (Bally 1993) 2.3.6.vbs](Twilight%20Zone%20%28Bally%201993%29%202.3.6/Twilight%20Zone%20%28Bally%201993%29%202.3.6.vbs#L2884)
-- [Twister (Sega 1996) v2.0 w VR Room.vbs](Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room/Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room.vbs#L2045)
-- [Viking (Bally 1980).vbs](Viking%20%28Bally%201980%29/Viking%20%28Bally%201980%29.vbs#L2124)
-- [fireball II VPX.vbs](fireball%20II%20VPX/fireball%20II%20VPX.vbs#L38)
+- 1342729923_RollerCoasterTycoon(Stern2002)1.3.vbs [[original]](1342729923_RollerCoasterTycoon%28Stern2002%291.3/1342729923_RollerCoasterTycoon%28Stern2002%291.3.vbs.original#L3168) [[patch]](1342729923_RollerCoasterTycoon%28Stern2002%291.3/1342729923_RollerCoasterTycoon%28Stern2002%291.3.vbs.patch) [[patched]](1342729923_RollerCoasterTycoon%28Stern2002%291.3/1342729923_RollerCoasterTycoon%28Stern2002%291.3.vbs)
+- 2001 (Gottlieb 1971) v0.99a.vbs [[original]](2001%20%28Gottlieb%201971%29%20v0.99a/2001%20%28Gottlieb%201971%29%20v0.99a.vbs.original#L5025) [[patch]](2001%20%28Gottlieb%201971%29%20v0.99a/2001%20%28Gottlieb%201971%29%20v0.99a.vbs.patch) [[patched]](2001%20%28Gottlieb%201971%29%20v0.99a/2001%20%28Gottlieb%201971%29%20v0.99a.vbs)
+- AC-DC LUCI Premium VR (Stern 2013) v1.1.3.vbs [[original]](AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3/AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3.vbs.original#L330) [[patch]](AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3/AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3.vbs.patch) [[patched]](AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3/AC-DC%20LUCI%20Premium%20VR%20%28Stern%202013%29%20v1.1.3.vbs)
+- Alien Poker (Williams 1980).vbs [[original]](AlienPoker%28Williams1980%291.0/Alien%20Poker%20%28Williams%201980%29.vbs.original#L1935) [[patch]](AlienPoker%28Williams1980%291.0/Alien%20Poker%20%28Williams%201980%29.vbs.patch) [[patched]](AlienPoker%28Williams1980%291.0/Alien%20Poker%20%28Williams%201980%29.vbs)
+- Apollo 13 (Sega 1995) w VR Room v2.1.1.vbs [[original]](Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1/Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1.vbs.original#L2624) [[patch]](Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1/Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1.vbs.patch) [[patched]](Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1/Apollo%2013%20%28Sega%201995%29%20w%20VR%20Room%20v2.1.1.vbs)
+- Atlantis (Bally 1989) w VR Room v2.0.vbs [[original]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.original#L3029) [[patch]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs)
+- Barracora (Williams 1981) w VR Room v2.1.3.vbs [[original]](Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3/Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3.vbs.original#L2022) [[patch]](Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3/Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3.vbs.patch) [[patched]](Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3/Barracora%20%28Williams%201981%29%20w%20VR%20Room%20v2.1.3.vbs)
+- Batman Forever (Sega 1995) 1.3.vbs [[original]](Batman%20Forever%20%28Sega%201995%29%201.3/Batman%20Forever%20%28Sega%201995%29%201.3.vbs.original#L3518) [[patch]](Batman%20Forever%20%28Sega%201995%29%201.3/Batman%20Forever%20%28Sega%201995%29%201.3.vbs.patch) [[patched]](Batman%20Forever%20%28Sega%201995%29%201.3/Batman%20Forever%20%28Sega%201995%29%201.3.vbs)
+- Batman [The Dark Knight] (Stern 2008) 1.16.vbs [[original]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16.vbs.original#L905) [[patch]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16.vbs.patch) [[patched]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%201.16.vbs)
+- Batman [The Dark Knight] (Stern 2008) v1.0.8.vbs [[original]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8.vbs.original#L824) [[patch]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8.vbs.patch) [[patched]](Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29%20v1.0.8.vbs)
+- Batman [The Dark Knight] (Stern 2008).vbs [[original]](BatmanTheDarkKnight%28Stern2008%29bordmod1.0.7/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29.vbs.original#L823) [[patch]](BatmanTheDarkKnight%28Stern2008%29bordmod1.0.7/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29.vbs.patch) [[patched]](BatmanTheDarkKnight%28Stern2008%29bordmod1.0.7/Batman%20%5BThe%20Dark%20Knight%5D%20%28Stern%202008%29.vbs)
+- BeastieBoysv1.0.vbs [[original]](BeastieBoysv1.0/BeastieBoysv1.0.vbs.original#L100) [[patch]](BeastieBoysv1.0/BeastieBoysv1.0.vbs.patch) [[patched]](BeastieBoysv1.0/BeastieBoysv1.0.vbs)
+- Black Knight (Williams 1980).vbs [[original]](Black%20Knight%20%28Williams%201980%29/Black%20Knight%20%28Williams%201980%29.vbs.original#L896) [[patch]](Black%20Knight%20%28Williams%201980%29/Black%20Knight%20%28Williams%201980%29.vbs.patch) [[patched]](Black%20Knight%20%28Williams%201980%29/Black%20Knight%20%28Williams%201980%29.vbs)
+- Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs [[original]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.original#L2687) [[patch]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Blackout (Williams 1980) v1.0.1 - SBR34.vbs [[original]](Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34/Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34.vbs.original#L1888) [[patch]](Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34/Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34.vbs.patch) [[patched]](Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34/Blackout%20%28Williams%201980%29%20v1.0.1%20-%20SBR34.vbs)
+- Blood Machines 2.0.vbs [[original]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.original#L205) [[patch]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.patch) [[patched]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs)
+- Bounty Hunter (Gottlieb 1985).vbs [[original]](Bounty%20Hunter%20%28Gottlieb%201985%29/Bounty%20Hunter%20%28Gottlieb%201985%29.vbs.original#L1420) [[patch]](Bounty%20Hunter%20%28Gottlieb%201985%29/Bounty%20Hunter%20%28Gottlieb%201985%29.vbs.patch) [[patched]](Bounty%20Hunter%20%28Gottlieb%201985%29/Bounty%20Hunter%20%28Gottlieb%201985%29.vbs)
+- Cactus Canyon (Bally 1998) VPW 1.1.vbs [[original]](Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1/Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1.vbs.original#L108) [[patch]](Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1/Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1.vbs.patch) [[patched]](Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1/Cactus%20Canyon%20%28Bally%201998%29%20VPW%201.1.vbs)
+- Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs [[original]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.original#L1544) [[patch]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Capt. Fantastic and The Brown Dirt Cowboy (Bally 1976) 2.0.2.vbs [[original]](Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2/Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2.vbs.original#L3871) [[patch]](Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2/Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2.vbs.patch) [[patched]](Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2/Capt.%20Fantastic%20and%20The%20Brown%20Dirt%20Cowboy%20%28Bally%201976%29%202.0.2.vbs)
+- Centaur (Bally 1981).vbs [[original]](Centaur%20%28Bally%201981%29/Centaur%20%28Bally%201981%29.vbs.original#L2069) [[patch]](Centaur%20%28Bally%201981%29/Centaur%20%28Bally%201981%29.vbs.patch) [[patched]](Centaur%20%28Bally%201981%29/Centaur%20%28Bally%201981%29.vbs)
+- Centigrade 37 (Gottlieb 1977).vbs [[original]](Centigrade%2037%20%28Gottlieb%201977%29/Centigrade%2037%20%28Gottlieb%201977%29.vbs.original#L3290) [[patch]](Centigrade%2037%20%28Gottlieb%201977%29/Centigrade%2037%20%28Gottlieb%201977%29.vbs.patch) [[patched]](Centigrade%2037%20%28Gottlieb%201977%29/Centigrade%2037%20%28Gottlieb%201977%29.vbs)
+- Checkpoint (Data East 1991)2.0.vbs [[original]](Checkpoint%20%28Data%20East%201991%292.0/Checkpoint%20%28Data%20East%201991%292.0.vbs.original#L2301) [[patch]](Checkpoint%20%28Data%20East%201991%292.0/Checkpoint%20%28Data%20East%201991%292.0.vbs.patch) [[patched]](Checkpoint%20%28Data%20East%201991%292.0/Checkpoint%20%28Data%20East%201991%292.0.vbs)
+- Comet (Williams 1985) w VR Room v2.3.vbs [[original]](Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3/Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3.vbs.original#L2233) [[patch]](Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3/Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3.vbs.patch) [[patched]](Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3/Comet%20%28Williams%201985%29%20w%20VR%20Room%20v2.3.vbs)
+- Cue Ball Wizard (Gottlieb 1992) v1.1.2.vbs [[original]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs.original#L1503) [[patch]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs.patch) [[patched]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs)
+- Diner (Williams 1990) VPW Mod 1.0.2.vbs [[original]](Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2/Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2.vbs.original#L4176) [[patch]](Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2/Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2.vbs.patch) [[patched]](Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2/Diner%20%28Williams%201990%29%20VPW%20Mod%201.0.2.vbs)
+- Doctor Who (Bally 1992) VPW Mod v1.1.vbs [[original]](Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1/Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1.vbs.original#L1111) [[patch]](Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1/Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1.vbs.patch) [[patched]](Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1/Doctor%20Who%20%28Bally%201992%29%20VPW%20Mod%20v1.1.vbs)
+- Dracula (Stern 1979).vbs [[original]](Dracula%20%28Stern%201979%292.1.1/Dracula%20%28Stern%201979%29.vbs.original#L60) [[patch]](Dracula%20%28Stern%201979%292.1.1/Dracula%20%28Stern%201979%29.vbs.patch) [[patched]](Dracula%20%28Stern%201979%292.1.1/Dracula%20%28Stern%201979%29.vbs)
+- Elektra (Bally 1981) w VR Room v2.0.7.vbs [[original]](Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7/Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7.vbs.original#L2205) [[patch]](Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7/Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7.vbs.patch) [[patched]](Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7/Elektra%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.7.vbs)
+- Elvis_MOD_2.0.vbs [[original]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs.original#L626) [[patch]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs.patch) [[patched]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs)
+- Family Guy 1.0.vbs [[original]](Family%20Guy%201.0/Family%20Guy%201.0.vbs.original#L3797) [[patch]](Family%20Guy%201.0/Family%20Guy%201.0.vbs.patch) [[patched]](Family%20Guy%201.0/Family%20Guy%201.0.vbs)
+- Flash (Williams 1979).vbs [[original]](Flash%20%28Williams%201979%29/Flash%20%28Williams%201979%29.vbs.original#L2124) [[patch]](Flash%20%28Williams%201979%29/Flash%20%28Williams%201979%29.vbs.patch) [[patched]](Flash%20%28Williams%201979%29/Flash%20%28Williams%201979%29.vbs)
+- Fog, The (Gottlieb 1979) v2.5 for 10.7.vbs [[original]](Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7/Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7.vbs.original#L3380) [[patch]](Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7/Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7.vbs.patch) [[patched]](Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7/Fog%2C%20The%20%28Gottlieb%201979%29%20v2.5%20for%2010.7.vbs)
+- Galaxy (Stern 1980).vbs [[original]](Galaxy%20%28Stern%201980%29/Galaxy%20%28Stern%201980%29.vbs.original#L3083) [[patch]](Galaxy%20%28Stern%201980%29/Galaxy%20%28Stern%201980%29.vbs.patch) [[patched]](Galaxy%20%28Stern%201980%29/Galaxy%20%28Stern%201980%29.vbs)
+- Game of Thrones LE (Stern 2015) VPW v1.0.2.vbs [[original]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs.original#L8960) [[patch]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs.patch) [[patched]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs)
+- Genie (Gottlieb 1979).vbs [[original]](Genie%20%28Gottlieb%201979%29/Genie%20%28Gottlieb%201979%29.vbs.original#L408) [[patch]](Genie%20%28Gottlieb%201979%29/Genie%20%28Gottlieb%201979%29.vbs.patch) [[patched]](Genie%20%28Gottlieb%201979%29/Genie%20%28Gottlieb%201979%29.vbs)
+- Gorgar_1.1.vbs [[original]](Gorgar_1.1/Gorgar_1.1.vbs.original#L2747) [[patch]](Gorgar_1.1/Gorgar_1.1.vbs.patch) [[patched]](Gorgar_1.1/Gorgar_1.1.vbs)
+- Halloween 1978-1981 (Original 2022) 1.03.vbs [[original]](Halloween%201978-1981%20%28Original%202022%29%201.03/Halloween%201978-1981%20%28Original%202022%29%201.03.vbs.original#L3670) [[patch]](Halloween%201978-1981%20%28Original%202022%29%201.03/Halloween%201978-1981%20%28Original%202022%29%201.03.vbs.patch) [[patched]](Halloween%201978-1981%20%28Original%202022%29%201.03/Halloween%201978-1981%20%28Original%202022%29%201.03.vbs)
+- Hang Glider (Bally 1976) VPW v1.2.vbs [[original]](Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2/Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2.vbs.original#L1420) [[patch]](Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2/Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2.vbs.patch) [[patched]](Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2/Hang%20Glider%20%28Bally%201976%29%20VPW%20v1.2.vbs)
+- Harlem Globetrotters (Bally 1979) v1.14.vbs [[original]](Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14/Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14.vbs.original#L3055) [[patch]](Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14/Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14.vbs.patch) [[patched]](Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14/Harlem%20Globetrotters%20%28Bally%201979%29%20v1.14.vbs)
+- Harley Davidson (Sega 1999) v1.12.vbs [[original]](Harley%20Davidson%20%28Sega%201999%29%20v1.12/Harley%20Davidson%20%28Sega%201999%29%20v1.12.vbs.original#L618) [[patch]](Harley%20Davidson%20%28Sega%201999%29%20v1.12/Harley%20Davidson%20%28Sega%201999%29%20v1.12.vbs.patch) [[patched]](Harley%20Davidson%20%28Sega%201999%29%20v1.12/Harley%20Davidson%20%28Sega%201999%29%20v1.12.vbs)
+- Heat Wave (Williams 1964).vbs [[original]](HeatWave%28Williams1964%291.0/Heat%20Wave%20%28Williams%201964%29.vbs.original#L1988) [[patch]](HeatWave%28Williams1964%291.0/Heat%20Wave%20%28Williams%201964%29.vbs.patch) [[patched]](HeatWave%28Williams1964%291.0/Heat%20Wave%20%28Williams%201964%29.vbs)
+- Indiana Jones The Pinball Adventure (Williams 1993) VPWmod v1.1.vbs [[original]](Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1/Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1.vbs.original#L4357) [[patch]](Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1/Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1.vbs.patch) [[patched]](Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1/Indiana%20Jones%20The%20Pinball%20Adventure%20%28Williams%201993%29%20VPWmod%20v1.1.vbs)
+- Iron Maiden (Original 2022) VPW 1.0.12.vbs [[original]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs.original#L7957) [[patch]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs.patch) [[patched]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs)
+- Iron Man Vault Edition (Stern 2010) VPW v1.0.vbs [[original]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs.original#L3280) [[patch]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs.patch) [[patched]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs)
+- Jack-Bot (Williams 1995).vbs [[original]](Jack-Bot%20%28Williams%201995%29/Jack-Bot%20%28Williams%201995%29.vbs.original#L3570) [[patch]](Jack-Bot%20%28Williams%201995%29/Jack-Bot%20%28Williams%201995%29.vbs.patch) [[patched]](Jack-Bot%20%28Williams%201995%29/Jack-Bot%20%28Williams%201995%29.vbs)
+- Jive Time (Williams 1970) 2.0.vbs [[original]](Jive%20Time%20%28Williams%201970%29%202.0/Jive%20Time%20%28Williams%201970%29%202.0.vbs.original#L777) [[patch]](Jive%20Time%20%28Williams%201970%29%202.0/Jive%20Time%20%28Williams%201970%29%202.0.vbs.patch) [[patched]](Jive%20Time%20%28Williams%201970%29%202.0/Jive%20Time%20%28Williams%201970%29%202.0.vbs)
+- Joker Poker EM (Gottlieb 1978) 1.6.vbs [[original]](Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6/Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6.vbs.original#L2948) [[patch]](Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6/Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6.vbs.patch) [[patched]](Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6/Joker%20Poker%20EM%20%28Gottlieb%201978%29%201.6.vbs)
+- Judge Dredd (Bally 1993) VPW v1.1.vbs [[original]](Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1/Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1.vbs.original#L3045) [[patch]](Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1/Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1.vbs.patch) [[patched]](Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1/Judge%20Dredd%20%28Bally%201993%29%20VPW%20v1.1.vbs)
+- Jungle Lord (Williams 1981) w VR Room v2.01.vbs [[original]](Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01/Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01.vbs.original#L139) [[patch]](Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01/Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01.vbs.patch) [[patched]](Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01/Jungle%20Lord%20%28Williams%201981%29%20w%20VR%20Room%20v2.01.vbs)
+- Laser Cue (Williams 1984) w VR Room 2.0.0.vbs [[original]](Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0/Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0.vbs.original#L1847) [[patch]](Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0/Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0.vbs.patch) [[patched]](Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0/Laser%20Cue%20%28Williams%201984%29%20w%20VR%20Room%202.0.0.vbs)
+- Laser War (Data East 1987) w VR Room v2.0.vbs [[original]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.original#L1409) [[patch]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs)
+- Led Zeppelin Pinball 2.5.vbs [[original]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs.original#L461) [[patch]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs.patch) [[patched]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs)
+- Magic City (Williams 1967).vbs [[original]](Magic%20City%20%28Williams%201967%291.0a/Magic%20City%20%28Williams%201967%29.vbs.original#L4325) [[patch]](Magic%20City%20%28Williams%201967%291.0a/Magic%20City%20%28Williams%201967%29.vbs.patch) [[patched]](Magic%20City%20%28Williams%201967%291.0a/Magic%20City%20%28Williams%201967%29.vbs)
+- Maverick (Data East 1994) VPW v1.3.vbs [[original]](Maverick%20%28Data%20East%201994%29%20VPW%20v1.3/Maverick%20%28Data%20East%201994%29%20VPW%20v1.3.vbs.original#L848) [[patch]](Maverick%20%28Data%20East%201994%29%20VPW%20v1.3/Maverick%20%28Data%20East%201994%29%20VPW%20v1.3.vbs.patch) [[patched]](Maverick%20%28Data%20East%201994%29%20VPW%20v1.3/Maverick%20%28Data%20East%201994%29%20VPW%20v1.3.vbs)
+- Medusa (Bally 1981) w VR Room v2.0.1.vbs [[original]](Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1/Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1.vbs.original#L2297) [[patch]](Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1/Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1.vbs.patch) [[patched]](Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1/Medusa%20%28Bally%201981%29%20w%20VR%20Room%20v2.0.1.vbs)
+- Meteor (Stern 1979).vbs [[original]](Meteor%20%28Stern%201979%29/Meteor%20%28Stern%201979%29.vbs.original#L1593) [[patch]](Meteor%20%28Stern%201979%29/Meteor%20%28Stern%201979%29.vbs.patch) [[patched]](Meteor%20%28Stern%201979%29/Meteor%20%28Stern%201979%29.vbs)
+- Monster Bash (Williams 1998) VPWmod v1.0.vbs [[original]](Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0/Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0.vbs.original#L2558) [[patch]](Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0/Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0.vbs.patch) [[patched]](Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0/Monster%20Bash%20%28Williams%201998%29%20VPWmod%20v1.0.vbs)
+- MrDoom (Recel 1979)1.3.0.vbs [[original]](MrDoom%20%28Recel%201979%291.3.0/MrDoom%20%28Recel%201979%291.3.0.vbs.original#L1836) [[patch]](MrDoom%20%28Recel%201979%291.3.0/MrDoom%20%28Recel%201979%291.3.0.vbs.patch) [[patched]](MrDoom%20%28Recel%201979%291.3.0/MrDoom%20%28Recel%201979%291.3.0.vbs)
+- MrEvil (Recel 1979)1.3.0.vbs [[original]](MrEvil%20%28Recel%201979%291.3.0/MrEvil%20%28Recel%201979%291.3.0.vbs.original#L1844) [[patch]](MrEvil%20%28Recel%201979%291.3.0/MrEvil%20%28Recel%201979%291.3.0.vbs.patch) [[patched]](MrEvil%20%28Recel%201979%291.3.0/MrEvil%20%28Recel%201979%291.3.0.vbs)
+- Nine Ball (Stern 1980).vbs [[original]](Nine%20Ball%20%28Stern%201980%29/Nine%20Ball%20%28Stern%201980%29.vbs.original#L1591) [[patch]](Nine%20Ball%20%28Stern%201980%29/Nine%20Ball%20%28Stern%201980%29.vbs.patch) [[patched]](Nine%20Ball%20%28Stern%201980%29/Nine%20Ball%20%28Stern%201980%29.vbs)
+- O Brother Where Art Thou (Zoss 2021)1_6.vbs [[original]](O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6/O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6.vbs.original#L2520) [[patch]](O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6/O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6.vbs.patch) [[patched]](O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6/O%20Brother%20Where%20Art%20Thou%20%28Zoss%202021%291_6.vbs)
+- Pharaoh (Williams 1981) w VR Room v2.0.3.vbs [[original]](Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3/Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3.vbs.original#L2385) [[patch]](Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3/Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3.vbs.patch) [[patched]](Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3/Pharaoh%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.3.vbs)
+- PinBlob (CLV 2024).vbs [[original]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs.original#L325) [[patch]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs.patch) [[patched]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs)
+- PinBot (Williams 1986) 2.1.1.vbs [[original]](PinBot%20%28Williams%201986%29%202.1.1/PinBot%20%28Williams%201986%29%202.1.1.vbs.original#L3553) [[patch]](PinBot%20%28Williams%201986%29%202.1.1/PinBot%20%28Williams%201986%29%202.1.1.vbs.patch) [[patched]](PinBot%20%28Williams%201986%29%202.1.1/PinBot%20%28Williams%201986%29%202.1.1.vbs)
+- Power Play (Bally 1977).vbs [[original]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs.original#L922) [[patch]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs.patch) [[patched]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs)
+- Robocop (Data East 1989)_drakkon(mod_1.2).vbs [[original]](Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29/Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29.vbs.original#L2457) [[patch]](Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29/Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29.vbs.patch) [[patched]](Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29/Robocop%20%28Data%20East%201989%29_drakkon%28mod_1.2%29.vbs)
+- Seawitch (Stern 1980).vbs [[original]](Seawitch%20%28Stern%201980%29/Seawitch%20%28Stern%201980%29.vbs.original#L1278) [[patch]](Seawitch%20%28Stern%201980%29/Seawitch%20%28Stern%201980%29.vbs.patch) [[patched]](Seawitch%20%28Stern%201980%29/Seawitch%20%28Stern%201980%29.vbs)
+- Solar Fire (Williams 1981) w VR Room v2.0.5.vbs [[original]](Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5/Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5.vbs.original#L2398) [[patch]](Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5/Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5.vbs.patch) [[patched]](Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5/Solar%20Fire%20%28Williams%201981%29%20w%20VR%20Room%20v2.0.5.vbs)
+- Space Shuttle (Williams 1984).vbs [[original]](Space%20Shuttle%20%28Williams%201984%292.0/Space%20Shuttle%20%28Williams%201984%29.vbs.original#L581) [[patch]](Space%20Shuttle%20%28Williams%201984%292.0/Space%20Shuttle%20%28Williams%201984%29.vbs.patch) [[patched]](Space%20Shuttle%20%28Williams%201984%292.0/Space%20Shuttle%20%28Williams%201984%29.vbs)
+- Star Trek (Bally 1979) 2.1.1.vbs [[original]](Star%20Trek%20%28Bally%201979%29%202.1.1/Star%20Trek%20%28Bally%201979%29%202.1.1.vbs.original#L731) [[patch]](Star%20Trek%20%28Bally%201979%29%202.1.1/Star%20Trek%20%28Bally%201979%29%202.1.1.vbs.patch) [[patched]](Star%20Trek%20%28Bally%201979%29%202.1.1/Star%20Trek%20%28Bally%201979%29%202.1.1.vbs)
+- Star Wars (Data East 1992) VPW v1.2.2.vbs [[original]](Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2/Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2.vbs.original#L3651) [[patch]](Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2/Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2.vbs.patch) [[patched]](Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2/Star%20Wars%20%28Data%20East%201992%29%20VPW%20v1.2.2.vbs)
+- Stars (Stern 1978).vbs [[original]](Stars%20%28Stern%201978%291.0.2/Stars%20%28Stern%201978%29.vbs.original#L1528) [[patch]](Stars%20%28Stern%201978%291.0.2/Stars%20%28Stern%201978%29.vbs.patch) [[patched]](Stars%20%28Stern%201978%291.0.2/Stars%20%28Stern%201978%29.vbs)
+- Stellar Wars (Williams 1979).vbs [[original]](Stellar%20Wars%20%28Williams%201979%29/Stellar%20Wars%20%28Williams%201979%29.vbs.original#L2163) [[patch]](Stellar%20Wars%20%28Williams%201979%29/Stellar%20Wars%20%28Williams%201979%29.vbs.patch) [[patched]](Stellar%20Wars%20%28Williams%201979%29/Stellar%20Wars%20%28Williams%201979%29.vbs)
+- Stingray (Stern 1977).vbs [[original]](Stingray%20%28Stern%201977%29%202.0/Stingray%20%28Stern%201977%29.vbs.original#L1696) [[patch]](Stingray%20%28Stern%201977%29%202.0/Stingray%20%28Stern%201977%29.vbs.patch) [[patched]](Stingray%20%28Stern%201977%29%202.0/Stingray%20%28Stern%201977%29.vbs)
+- Strikes And Spares (Bally 1978) 2.0.vbs [[original]](Strikes%20And%20Spares%20%28Bally%201978%29%202.0/Strikes%20And%20Spares%20%28Bally%201978%29%202.0.vbs.original#L2093) [[patch]](Strikes%20And%20Spares%20%28Bally%201978%29%202.0/Strikes%20And%20Spares%20%28Bally%201978%29%202.0.vbs.patch) [[patched]](Strikes%20And%20Spares%20%28Bally%201978%29%202.0/Strikes%20And%20Spares%20%28Bally%201978%29%202.0.vbs)
+- Strip Joker Poker (Gottlieb 1978) 1.5.vbs [[original]](Strip-Joker-Poker-%28Gottlieb-1978%29-1.5/Strip%20Joker%20Poker%20%28Gottlieb%201978%29%201.5.vbs.original#L2996) [[patch]](Strip-Joker-Poker-%28Gottlieb-1978%29-1.5/Strip%20Joker%20Poker%20%28Gottlieb%201978%29%201.5.vbs.patch) [[patched]](Strip-Joker-Poker-%28Gottlieb-1978%29-1.5/Strip%20Joker%20Poker%20%28Gottlieb%201978%29%201.5.vbs)
+- Swords of Fury (Williams 1988).vbs [[original]](Swords%20of%20Fury%20%28Williams%201988%29/Swords%20of%20Fury%20%28Williams%201988%29.vbs.original#L610) [[patch]](Swords%20of%20Fury%20%28Williams%201988%29/Swords%20of%20Fury%20%28Williams%201988%29.vbs.patch) [[patched]](Swords%20of%20Fury%20%28Williams%201988%29/Swords%20of%20Fury%20%28Williams%201988%29.vbs)
+- TX-Sector (Gottlieb 1988) SG1bsoN Mod V1.1.vbs [[original]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs.original#L809) [[patch]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs.patch) [[patched]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs)
+- Tales from the Crypt (Data East 1993) VPW v1.22.vbs [[original]](Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22/Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22.vbs.original#L1528) [[patch]](Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22/Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22.vbs.patch) [[patched]](Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22/Tales%20from%20the%20Crypt%20%28Data%20East%201993%29%20VPW%20v1.22.vbs)
+- Transporter the Rescue (Midway 1989) VPW v1.05.vbs [[original]](Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05/Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05.vbs.original#L3331) [[patch]](Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05/Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05.vbs.patch) [[patched]](Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05/Transporter%20the%20Rescue%20%28Midway%201989%29%20VPW%20v1.05.vbs)
+- Twilight Zone (Bally 1993) 2.3.6.vbs [[original]](Twilight%20Zone%20%28Bally%201993%29%202.3.6/Twilight%20Zone%20%28Bally%201993%29%202.3.6.vbs.original#L2884) [[patch]](Twilight%20Zone%20%28Bally%201993%29%202.3.6/Twilight%20Zone%20%28Bally%201993%29%202.3.6.vbs.patch) [[patched]](Twilight%20Zone%20%28Bally%201993%29%202.3.6/Twilight%20Zone%20%28Bally%201993%29%202.3.6.vbs)
+- Twister (Sega 1996) v2.0 w VR Room.vbs [[original]](Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room/Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room.vbs.original#L2045) [[patch]](Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room/Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room.vbs.patch) [[patched]](Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room/Twister%20%28Sega%201996%29%20v2.0%20w%20VR%20Room.vbs)
+- Viking (Bally 1980).vbs [[original]](Viking%20%28Bally%201980%29/Viking%20%28Bally%201980%29.vbs.original#L2124) [[patch]](Viking%20%28Bally%201980%29/Viking%20%28Bally%201980%29.vbs.patch) [[patched]](Viking%20%28Bally%201980%29/Viking%20%28Bally%201980%29.vbs)
+- fireball II VPX.vbs [[original]](fireball%20II%20VPX/fireball%20II%20VPX.vbs.original#L38) [[patch]](fireball%20II%20VPX/fireball%20II%20VPX.vbs.patch) [[patched]](fireball%20II%20VPX/fireball%20II%20VPX.vbs)
 
 ## Parenthesis on first argument of a procedure call not handled correctly by Wine VBScript
 
@@ -112,70 +112,70 @@ When the first argument of a Sub/procedure call starts with `(`, Wine's VBScript
 
 Affected scripts:
 
-- [2104398928_CARtoonsRC(Nailed2021)v1.3.vbs](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs#L841)
-- [A Charlie Brown Christmas feat. Vince Guaraldi (iDigStuff 2023).vbs](A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29%201.0/A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29.vbs#L1198)
-- [Aladdin's Castle (Bally 1976) - DOZER - MJR_1.01.vbs](Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01/Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01.vbs#L625)
-- [Attack On Titan (cHuG_MOD_1.4).vbs](Attack%20On%20Titan%20%28cHuG_MOD_1.4%29/Attack%20On%20Titan%20%28cHuG_MOD_1.4%29.vbs#L2475)
-- [Ben-Hur (Staal 1977) V1.1.1 DT-FS-VR-MR Ext2k Conversion.vbs](Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion/Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion.vbs#L1330)
-- [Big Deal (Williams 1977)V2.1.vbs](Big%20Deal%20%28Williams%201977%29V2.1/Big%20Deal%20%28Williams%201977%29V2.1.vbs#L1067)
-- [Big Horse (Maresa 1975) v55_VPX8.vbs](Big%20Horse%20%28Maresa%201975%29%20v55_VPX8/Big%20Horse%20%28Maresa%201975%29%20v55_VPX8.vbs#L1107)
-- [Big Star (Williams 1972) v4.3.vbs](Big%20Star%20%28Williams%201972%29%20v4.3/Big%20Star%20%28Williams%201972%29%20v4.3.vbs#L1113)
-- [Black & Red (Inder 1975) v55_VPX8.vbs](Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8/Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8.vbs#L931)
-- [Bumper (Bill Port - 1977) v4.vbs](Bumper%20%28Bill%20Port%20-%201977%29%20v4/Bumper%20%28Bill%20Port%20-%201977%29%20v4.vbs#L973)
-- [Cannes (Segasa 1976)V1.3.vbs](Cannes%20%28Segasa%201976%29V1.3/Cannes%20%28Segasa%201976%29V1.3.vbs#L1113)
-- [DORAEMON.vbs](DORAEMON/DORAEMON.vbs#L1632)
-- [DS.vbs](Drunken%20Santa%20%28Original%202021%29/DS.vbs#L1724)
-- [DUCKTALES.vbs](Ducktales%20%28Orginal%202020%29/DUCKTALES.vbs#L1710)
-- [FNAF.vbs](FNAF/FNAF.vbs#L1934)
-- [Fifteen (Inder 1974) v4.vbs](Fifteen%20%28Inder%201974%29%20v4/Fifteen%20%28Inder%201974%29%20v4.vbs#L899)
-- [Fireball XL5.vbs](Fireball%20XL5/Fireball%20XL5.vbs#L2424)
-- [Game of Thrones LE (Stern 2015) VPW 1.2.vbs](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2.vbs#L8915)
-- [Game of Thrones LE (Stern 2015) VPW v1.0.2.vbs](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs#L8960)
-- [Gemini (Gottlieb 1978).vbs](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs#L1173)
-- [Gun Men (Staal 1979).vbs](Gun%20Men%20%28Staal%201979%29/Gun%20Men%20%28Staal%201979%29.vbs#L1226)
-- [HALO.vbs](HALO/HALO.vbs#L1957)
-- [Hellraiser 1.2.vbs](Hellraiser%201.2/Hellraiser%201.2.vbs#L2787)
-- [Honey (Williams 1971)V1.3.vbs](Honey%20%28Williams%201971%29V1.3/Honey%20%28Williams%201971%29V1.3.vbs#L1063)
-- [Indiana Jones (Stern 2008)-Hanibal-2.6.vbs](Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6/Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6.vbs#L2117)
-- [Inhabiting Mars RC 4.vbs](Inhabiting%20Mars%20RC%204/Inhabiting%20Mars%20RC%204.vbs#L2311)
-- [Liberty Bell (Williams 1977) V1.01.vbs](Liberty%20Bell%20%28Williams%201977%29%20V1.01/Liberty%20Bell%20%28Williams%201977%29%20V1.01.vbs#L404)
-- [Lightning Ball (Gottlieb 1959).vbs](Lightning%20Ball%20%28Gottlieb%201959%29/Lightning%20Ball%20%28Gottlieb%201959%29.vbs#L1216)
-- [Luck Smile (Inder 1976) 1p v55_VPX8.vbs](Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8.vbs#L897)
-- [Luck Smile (Inder 1976) 4p v55_VPX8.vbs](Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8.vbs#L898)
-- [Mago de Oz - the pinball v4.3.vbs](Mago%20de%20Oz%20-%20the%20pinball%20v4.3/Mago%20de%20Oz%20-%20the%20pinball%20v4.3.vbs#L2557)
-- [Metal Slug_1.05.vbs](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs#L72)
-- [Monaco (Segasa 1977)V1.4.vbs](Monaco%20%28Segasa%201977%29V1.4/Monaco%20%28Segasa%201977%29V1.4.vbs#L1095)
-- [Monkey Island VR Room.vbs](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs#L240)
-- [Motley Crue SS.vbs](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs#L5229)
-- [Munsters (Original 2020) 1.05.vbs](Munsters%20%28Original%202020%29%201.05/Munsters%20%28Original%202020%29%201.05.vbs#L257)
-- [PVM.vbs](Putin%20Vodka%20Mania%20%28Original%202022%29/PVM.vbs#L2181)
-- [Pat Hand (Williams 1975)V1.4.vbs](Pat%20Hand%20%28Williams%201975%29V1.4/Pat%20Hand%20%28Williams%201975%29V1.4.vbs#L1081)
-- [Punchout.vbs](Punchout/Punchout.vbs#L2167)
-- [Rancho (Williams 1976)V1.4.vbs](Rancho%20%28Williams%201976%29V1.4/Rancho%20%28Williams%201976%29V1.4.vbs#L1076)
-- [Rattlecan v1.5.3.vbs](Rattlecan%20v1.5.3/Rattlecan%20v1.5.3.vbs#L604)
-- [Riccione.vbs](Riccione_V1.4/Riccione.vbs#L1128)
-- [Route66.vbs](Route66%280_2%29/Route66.vbs#L307)
-- [Running Horse (Inder 1976) v55_VPX8.vbs](Running%20Horse%20%28Inder%201976%29%20v55_VPX8/Running%20Horse%20%28Inder%201976%29%20v55_VPX8.vbs#L900)
-- [SMGP.vbs](SMGP%20%28Super%20Mario%20Galaxy%20Pinball%29/SMGP.vbs#L1848)
-- [SPP.vbs](SouthParkPinballv1.2/SPP.vbs#L2185)
-- [Seven Winner (Inder 1973) v4.vbs](Seven%20Winner%20%28Inder%201973%29%20v4/Seven%20Winner%20%28Inder%201973%29%20v4.vbs#L869)
-- [Skylab (Williams 1974)V1.3.vbs](Skylab%20%28Williams%201974%29V1.3/Skylab%20%28Williams%201974%29V1.3.vbs#L1134)
-- [Sonic The Hedgehog (Brendan Bailey 2005) VPX MOD 1.33.vbs](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs#L156)
-- [Sons Of Anarchy (Original 2019).vbs](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs#L51)
-- [Stardust (Williams 1971) v4.vbs](Stardust%20%28Williams%201971%29%20v4/Stardust%20%28Williams%201971%29%20v4.vbs#L933)
-- [Streets of Rage (TBA 2018).vbs](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs#L72)
-- [Super Star (Williams 1972) v4.3.vbs](Super%20Star%20%28Williams%201972%29%20v4.3/Super%20Star%20%28Williams%201972%29%20v4.3.vbs#L1080)
-- [The Grinch (Original 2022) pinballfan2018.vbs](The%20Grinch%20-%20Original%202022/The%20Grinch%20%28Original%202022%29%20pinballfan2018.vbs#L870)
-- [TheATeam.vbs](TheATeam_2.0.7/TheATeam.vbs#L12146)
-- [Van Halen 1.2.vbs](Van%20Halen%201.2/Van%20Halen%201.2.vbs#L4926)
-- [indochinecentral.vbs](indochinecentral/indochinecentral.vbs#L2556)
-- [indochinecentralPUP.vbs](indochinecentralPUP/indochinecentralPUP.vbs#L2556)
-- [monkeyisland.vbs](Monkeyislandv1.1/monkeyisland.vbs#L2441)
-- [pizzatime-65.vbs](pizzatime-65/pizzatime-65.vbs#L48)
-- [pulp_fiction.vbs](Pulp%20Fiction%203.1/pulp_fiction.vbs#L2621)
-- [speakeasy2.vbs](speakeasy2/speakeasy2.vbs#L1775)
-- [speakeasy4.vbs](speakeasy4/speakeasy4.vbs#L1775)
-- [wackyraces.vbs](wackyraces/wackyraces.vbs#L2829)
+- 2104398928_CARtoonsRC(Nailed2021)v1.3.vbs [[original]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs.original#L841) [[patch]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs.patch) [[patched]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs)
+- A Charlie Brown Christmas feat. Vince Guaraldi (iDigStuff 2023).vbs [[original]](A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29%201.0/A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29.vbs.original#L1198) [[patch]](A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29%201.0/A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29.vbs.patch) [[patched]](A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29%201.0/A%20Charlie%20Brown%20Christmas%20feat.%20Vince%20Guaraldi%20%28iDigStuff%202023%29.vbs)
+- Aladdin's Castle (Bally 1976) - DOZER - MJR_1.01.vbs [[original]](Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01/Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01.vbs.original#L625) [[patch]](Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01/Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01.vbs.patch) [[patched]](Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01/Aladdin%27s%20Castle%20%28Bally%201976%29%20-%20DOZER%20-%20MJR_1.01.vbs)
+- Attack On Titan (cHuG_MOD_1.4).vbs [[original]](Attack%20On%20Titan%20%28cHuG_MOD_1.4%29/Attack%20On%20Titan%20%28cHuG_MOD_1.4%29.vbs.original#L2475) [[patch]](Attack%20On%20Titan%20%28cHuG_MOD_1.4%29/Attack%20On%20Titan%20%28cHuG_MOD_1.4%29.vbs.patch) [[patched]](Attack%20On%20Titan%20%28cHuG_MOD_1.4%29/Attack%20On%20Titan%20%28cHuG_MOD_1.4%29.vbs)
+- Ben-Hur (Staal 1977) V1.1.1 DT-FS-VR-MR Ext2k Conversion.vbs [[original]](Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion/Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion.vbs.original#L1330) [[patch]](Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion/Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion.vbs.patch) [[patched]](Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion/Ben-Hur%20%28Staal%201977%29%20V1.1.1%20DT-FS-VR-MR%20Ext2k%20Conversion.vbs)
+- Big Deal (Williams 1977)V2.1.vbs [[original]](Big%20Deal%20%28Williams%201977%29V2.1/Big%20Deal%20%28Williams%201977%29V2.1.vbs.original#L1067) [[patch]](Big%20Deal%20%28Williams%201977%29V2.1/Big%20Deal%20%28Williams%201977%29V2.1.vbs.patch) [[patched]](Big%20Deal%20%28Williams%201977%29V2.1/Big%20Deal%20%28Williams%201977%29V2.1.vbs)
+- Big Horse (Maresa 1975) v55_VPX8.vbs [[original]](Big%20Horse%20%28Maresa%201975%29%20v55_VPX8/Big%20Horse%20%28Maresa%201975%29%20v55_VPX8.vbs.original#L1107) [[patch]](Big%20Horse%20%28Maresa%201975%29%20v55_VPX8/Big%20Horse%20%28Maresa%201975%29%20v55_VPX8.vbs.patch) [[patched]](Big%20Horse%20%28Maresa%201975%29%20v55_VPX8/Big%20Horse%20%28Maresa%201975%29%20v55_VPX8.vbs)
+- Big Star (Williams 1972) v4.3.vbs [[original]](Big%20Star%20%28Williams%201972%29%20v4.3/Big%20Star%20%28Williams%201972%29%20v4.3.vbs.original#L1113) [[patch]](Big%20Star%20%28Williams%201972%29%20v4.3/Big%20Star%20%28Williams%201972%29%20v4.3.vbs.patch) [[patched]](Big%20Star%20%28Williams%201972%29%20v4.3/Big%20Star%20%28Williams%201972%29%20v4.3.vbs)
+- Black & Red (Inder 1975) v55_VPX8.vbs [[original]](Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8/Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8.vbs.original#L931) [[patch]](Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8/Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8.vbs.patch) [[patched]](Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8/Black%20%26%20Red%20%28Inder%201975%29%20v55_VPX8.vbs)
+- Bumper (Bill Port - 1977) v4.vbs [[original]](Bumper%20%28Bill%20Port%20-%201977%29%20v4/Bumper%20%28Bill%20Port%20-%201977%29%20v4.vbs.original#L973) [[patch]](Bumper%20%28Bill%20Port%20-%201977%29%20v4/Bumper%20%28Bill%20Port%20-%201977%29%20v4.vbs.patch) [[patched]](Bumper%20%28Bill%20Port%20-%201977%29%20v4/Bumper%20%28Bill%20Port%20-%201977%29%20v4.vbs)
+- Cannes (Segasa 1976)V1.3.vbs [[original]](Cannes%20%28Segasa%201976%29V1.3/Cannes%20%28Segasa%201976%29V1.3.vbs.original#L1113) [[patch]](Cannes%20%28Segasa%201976%29V1.3/Cannes%20%28Segasa%201976%29V1.3.vbs.patch) [[patched]](Cannes%20%28Segasa%201976%29V1.3/Cannes%20%28Segasa%201976%29V1.3.vbs)
+- DORAEMON.vbs [[original]](DORAEMON/DORAEMON.vbs.original#L1632) [[patch]](DORAEMON/DORAEMON.vbs.patch) [[patched]](DORAEMON/DORAEMON.vbs)
+- DS.vbs [[original]](Drunken%20Santa%20%28Original%202021%29/DS.vbs.original#L1724) [[patch]](Drunken%20Santa%20%28Original%202021%29/DS.vbs.patch) [[patched]](Drunken%20Santa%20%28Original%202021%29/DS.vbs)
+- DUCKTALES.vbs [[original]](Ducktales%20%28Orginal%202020%29/DUCKTALES.vbs.original#L1710) [[patch]](Ducktales%20%28Orginal%202020%29/DUCKTALES.vbs.patch) [[patched]](Ducktales%20%28Orginal%202020%29/DUCKTALES.vbs)
+- FNAF.vbs [[original]](FNAF/FNAF.vbs.original#L1934) [[patch]](FNAF/FNAF.vbs.patch) [[patched]](FNAF/FNAF.vbs)
+- Fifteen (Inder 1974) v4.vbs [[original]](Fifteen%20%28Inder%201974%29%20v4/Fifteen%20%28Inder%201974%29%20v4.vbs.original#L899) [[patch]](Fifteen%20%28Inder%201974%29%20v4/Fifteen%20%28Inder%201974%29%20v4.vbs.patch) [[patched]](Fifteen%20%28Inder%201974%29%20v4/Fifteen%20%28Inder%201974%29%20v4.vbs)
+- Fireball XL5.vbs [[original]](Fireball%20XL5/Fireball%20XL5.vbs.original#L2424) [[patch]](Fireball%20XL5/Fireball%20XL5.vbs.patch) [[patched]](Fireball%20XL5/Fireball%20XL5.vbs)
+- Game of Thrones LE (Stern 2015) VPW 1.2.vbs [[original]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2.vbs.original#L8915) [[patch]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2.vbs.patch) [[patched]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%201.2.vbs)
+- Game of Thrones LE (Stern 2015) VPW v1.0.2.vbs [[original]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs.original#L8960) [[patch]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs.patch) [[patched]](Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2/Game%20of%20Thrones%20LE%20%28Stern%202015%29%20VPW%20v1.0.2.vbs)
+- Gemini (Gottlieb 1978).vbs [[original]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs.original#L1173) [[patch]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs.patch) [[patched]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs)
+- Gun Men (Staal 1979).vbs [[original]](Gun%20Men%20%28Staal%201979%29/Gun%20Men%20%28Staal%201979%29.vbs.original#L1226) [[patch]](Gun%20Men%20%28Staal%201979%29/Gun%20Men%20%28Staal%201979%29.vbs.patch) [[patched]](Gun%20Men%20%28Staal%201979%29/Gun%20Men%20%28Staal%201979%29.vbs)
+- HALO.vbs [[original]](HALO/HALO.vbs.original#L1957) [[patch]](HALO/HALO.vbs.patch) [[patched]](HALO/HALO.vbs)
+- Hellraiser 1.2.vbs [[original]](Hellraiser%201.2/Hellraiser%201.2.vbs.original#L2787) [[patch]](Hellraiser%201.2/Hellraiser%201.2.vbs.patch) [[patched]](Hellraiser%201.2/Hellraiser%201.2.vbs)
+- Honey (Williams 1971)V1.3.vbs [[original]](Honey%20%28Williams%201971%29V1.3/Honey%20%28Williams%201971%29V1.3.vbs.original#L1063) [[patch]](Honey%20%28Williams%201971%29V1.3/Honey%20%28Williams%201971%29V1.3.vbs.patch) [[patched]](Honey%20%28Williams%201971%29V1.3/Honey%20%28Williams%201971%29V1.3.vbs)
+- Indiana Jones (Stern 2008)-Hanibal-2.6.vbs [[original]](Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6/Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6.vbs.original#L2117) [[patch]](Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6/Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6.vbs.patch) [[patched]](Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6/Indiana%20Jones%20%28Stern%202008%29-Hanibal-2.6.vbs)
+- Inhabiting Mars RC 4.vbs [[original]](Inhabiting%20Mars%20RC%204/Inhabiting%20Mars%20RC%204.vbs.original#L2311) [[patch]](Inhabiting%20Mars%20RC%204/Inhabiting%20Mars%20RC%204.vbs.patch) [[patched]](Inhabiting%20Mars%20RC%204/Inhabiting%20Mars%20RC%204.vbs)
+- Liberty Bell (Williams 1977) V1.01.vbs [[original]](Liberty%20Bell%20%28Williams%201977%29%20V1.01/Liberty%20Bell%20%28Williams%201977%29%20V1.01.vbs.original#L404) [[patch]](Liberty%20Bell%20%28Williams%201977%29%20V1.01/Liberty%20Bell%20%28Williams%201977%29%20V1.01.vbs.patch) [[patched]](Liberty%20Bell%20%28Williams%201977%29%20V1.01/Liberty%20Bell%20%28Williams%201977%29%20V1.01.vbs)
+- Lightning Ball (Gottlieb 1959).vbs [[original]](Lightning%20Ball%20%28Gottlieb%201959%29/Lightning%20Ball%20%28Gottlieb%201959%29.vbs.original#L1216) [[patch]](Lightning%20Ball%20%28Gottlieb%201959%29/Lightning%20Ball%20%28Gottlieb%201959%29.vbs.patch) [[patched]](Lightning%20Ball%20%28Gottlieb%201959%29/Lightning%20Ball%20%28Gottlieb%201959%29.vbs)
+- Luck Smile (Inder 1976) 1p v55_VPX8.vbs [[original]](Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8.vbs.original#L897) [[patch]](Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8.vbs.patch) [[patched]](Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%201p%20v55_VPX8.vbs)
+- Luck Smile (Inder 1976) 4p v55_VPX8.vbs [[original]](Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8.vbs.original#L898) [[patch]](Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8.vbs.patch) [[patched]](Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8/Luck%20Smile%20%28Inder%201976%29%204p%20v55_VPX8.vbs)
+- Mago de Oz - the pinball v4.3.vbs [[original]](Mago%20de%20Oz%20-%20the%20pinball%20v4.3/Mago%20de%20Oz%20-%20the%20pinball%20v4.3.vbs.original#L2557) [[patch]](Mago%20de%20Oz%20-%20the%20pinball%20v4.3/Mago%20de%20Oz%20-%20the%20pinball%20v4.3.vbs.patch) [[patched]](Mago%20de%20Oz%20-%20the%20pinball%20v4.3/Mago%20de%20Oz%20-%20the%20pinball%20v4.3.vbs)
+- Metal Slug_1.05.vbs [[original]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.original#L72) [[patch]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.patch) [[patched]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs)
+- Monaco (Segasa 1977)V1.4.vbs [[original]](Monaco%20%28Segasa%201977%29V1.4/Monaco%20%28Segasa%201977%29V1.4.vbs.original#L1095) [[patch]](Monaco%20%28Segasa%201977%29V1.4/Monaco%20%28Segasa%201977%29V1.4.vbs.patch) [[patched]](Monaco%20%28Segasa%201977%29V1.4/Monaco%20%28Segasa%201977%29V1.4.vbs)
+- Monkey Island VR Room.vbs [[original]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs.original#L240) [[patch]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs.patch) [[patched]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs)
+- Motley Crue SS.vbs [[original]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs.original#L5229) [[patch]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs.patch) [[patched]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs)
+- Munsters (Original 2020) 1.05.vbs [[original]](Munsters%20%28Original%202020%29%201.05/Munsters%20%28Original%202020%29%201.05.vbs.original#L257) [[patch]](Munsters%20%28Original%202020%29%201.05/Munsters%20%28Original%202020%29%201.05.vbs.patch) [[patched]](Munsters%20%28Original%202020%29%201.05/Munsters%20%28Original%202020%29%201.05.vbs)
+- PVM.vbs [[original]](Putin%20Vodka%20Mania%20%28Original%202022%29/PVM.vbs.original#L2181) [[patch]](Putin%20Vodka%20Mania%20%28Original%202022%29/PVM.vbs.patch) [[patched]](Putin%20Vodka%20Mania%20%28Original%202022%29/PVM.vbs)
+- Pat Hand (Williams 1975)V1.4.vbs [[original]](Pat%20Hand%20%28Williams%201975%29V1.4/Pat%20Hand%20%28Williams%201975%29V1.4.vbs.original#L1081) [[patch]](Pat%20Hand%20%28Williams%201975%29V1.4/Pat%20Hand%20%28Williams%201975%29V1.4.vbs.patch) [[patched]](Pat%20Hand%20%28Williams%201975%29V1.4/Pat%20Hand%20%28Williams%201975%29V1.4.vbs)
+- Punchout.vbs [[original]](Punchout/Punchout.vbs.original#L2167) [[patch]](Punchout/Punchout.vbs.patch) [[patched]](Punchout/Punchout.vbs)
+- Rancho (Williams 1976)V1.4.vbs [[original]](Rancho%20%28Williams%201976%29V1.4/Rancho%20%28Williams%201976%29V1.4.vbs.original#L1076) [[patch]](Rancho%20%28Williams%201976%29V1.4/Rancho%20%28Williams%201976%29V1.4.vbs.patch) [[patched]](Rancho%20%28Williams%201976%29V1.4/Rancho%20%28Williams%201976%29V1.4.vbs)
+- Rattlecan v1.5.3.vbs [[original]](Rattlecan%20v1.5.3/Rattlecan%20v1.5.3.vbs.original#L604) [[patch]](Rattlecan%20v1.5.3/Rattlecan%20v1.5.3.vbs.patch) [[patched]](Rattlecan%20v1.5.3/Rattlecan%20v1.5.3.vbs)
+- Riccione.vbs [[original]](Riccione_V1.4/Riccione.vbs.original#L1128) [[patch]](Riccione_V1.4/Riccione.vbs.patch) [[patched]](Riccione_V1.4/Riccione.vbs)
+- Route66.vbs [[original]](Route66%280_2%29/Route66.vbs.original#L307) [[patch]](Route66%280_2%29/Route66.vbs.patch) [[patched]](Route66%280_2%29/Route66.vbs)
+- Running Horse (Inder 1976) v55_VPX8.vbs [[original]](Running%20Horse%20%28Inder%201976%29%20v55_VPX8/Running%20Horse%20%28Inder%201976%29%20v55_VPX8.vbs.original#L900) [[patch]](Running%20Horse%20%28Inder%201976%29%20v55_VPX8/Running%20Horse%20%28Inder%201976%29%20v55_VPX8.vbs.patch) [[patched]](Running%20Horse%20%28Inder%201976%29%20v55_VPX8/Running%20Horse%20%28Inder%201976%29%20v55_VPX8.vbs)
+- SMGP.vbs [[original]](SMGP%20%28Super%20Mario%20Galaxy%20Pinball%29/SMGP.vbs.original#L1848) [[patch]](SMGP%20%28Super%20Mario%20Galaxy%20Pinball%29/SMGP.vbs.patch) [[patched]](SMGP%20%28Super%20Mario%20Galaxy%20Pinball%29/SMGP.vbs)
+- SPP.vbs [[original]](SouthParkPinballv1.2/SPP.vbs.original#L2185) [[patch]](SouthParkPinballv1.2/SPP.vbs.patch) [[patched]](SouthParkPinballv1.2/SPP.vbs)
+- Seven Winner (Inder 1973) v4.vbs [[original]](Seven%20Winner%20%28Inder%201973%29%20v4/Seven%20Winner%20%28Inder%201973%29%20v4.vbs.original#L869) [[patch]](Seven%20Winner%20%28Inder%201973%29%20v4/Seven%20Winner%20%28Inder%201973%29%20v4.vbs.patch) [[patched]](Seven%20Winner%20%28Inder%201973%29%20v4/Seven%20Winner%20%28Inder%201973%29%20v4.vbs)
+- Skylab (Williams 1974)V1.3.vbs [[original]](Skylab%20%28Williams%201974%29V1.3/Skylab%20%28Williams%201974%29V1.3.vbs.original#L1134) [[patch]](Skylab%20%28Williams%201974%29V1.3/Skylab%20%28Williams%201974%29V1.3.vbs.patch) [[patched]](Skylab%20%28Williams%201974%29V1.3/Skylab%20%28Williams%201974%29V1.3.vbs)
+- Sonic The Hedgehog (Brendan Bailey 2005) VPX MOD 1.33.vbs [[original]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs.original#L156) [[patch]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs.patch) [[patched]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs)
+- Sons Of Anarchy (Original 2019).vbs [[original]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs.original#L51) [[patch]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs.patch) [[patched]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs)
+- Stardust (Williams 1971) v4.vbs [[original]](Stardust%20%28Williams%201971%29%20v4/Stardust%20%28Williams%201971%29%20v4.vbs.original#L933) [[patch]](Stardust%20%28Williams%201971%29%20v4/Stardust%20%28Williams%201971%29%20v4.vbs.patch) [[patched]](Stardust%20%28Williams%201971%29%20v4/Stardust%20%28Williams%201971%29%20v4.vbs)
+- Streets of Rage (TBA 2018).vbs [[original]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs.original#L72) [[patch]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs.patch) [[patched]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs)
+- Super Star (Williams 1972) v4.3.vbs [[original]](Super%20Star%20%28Williams%201972%29%20v4.3/Super%20Star%20%28Williams%201972%29%20v4.3.vbs.original#L1080) [[patch]](Super%20Star%20%28Williams%201972%29%20v4.3/Super%20Star%20%28Williams%201972%29%20v4.3.vbs.patch) [[patched]](Super%20Star%20%28Williams%201972%29%20v4.3/Super%20Star%20%28Williams%201972%29%20v4.3.vbs)
+- The Grinch (Original 2022) pinballfan2018.vbs [[original]](The%20Grinch%20-%20Original%202022/The%20Grinch%20%28Original%202022%29%20pinballfan2018.vbs.original#L870) [[patch]](The%20Grinch%20-%20Original%202022/The%20Grinch%20%28Original%202022%29%20pinballfan2018.vbs.patch) [[patched]](The%20Grinch%20-%20Original%202022/The%20Grinch%20%28Original%202022%29%20pinballfan2018.vbs)
+- TheATeam.vbs [[original]](TheATeam_2.0.7/TheATeam.vbs.original#L12146) [[patch]](TheATeam_2.0.7/TheATeam.vbs.patch) [[patched]](TheATeam_2.0.7/TheATeam.vbs)
+- Van Halen 1.2.vbs [[original]](Van%20Halen%201.2/Van%20Halen%201.2.vbs.original#L4926) [[patch]](Van%20Halen%201.2/Van%20Halen%201.2.vbs.patch) [[patched]](Van%20Halen%201.2/Van%20Halen%201.2.vbs)
+- indochinecentral.vbs [[original]](indochinecentral/indochinecentral.vbs.original#L2556) [[patch]](indochinecentral/indochinecentral.vbs.patch) [[patched]](indochinecentral/indochinecentral.vbs)
+- indochinecentralPUP.vbs [[original]](indochinecentralPUP/indochinecentralPUP.vbs.original#L2556) [[patch]](indochinecentralPUP/indochinecentralPUP.vbs.patch) [[patched]](indochinecentralPUP/indochinecentralPUP.vbs)
+- monkeyisland.vbs [[original]](Monkeyislandv1.1/monkeyisland.vbs.original#L2441) [[patch]](Monkeyislandv1.1/monkeyisland.vbs.patch) [[patched]](Monkeyislandv1.1/monkeyisland.vbs)
+- pizzatime-65.vbs [[original]](pizzatime-65/pizzatime-65.vbs.original#L48) [[patch]](pizzatime-65/pizzatime-65.vbs.patch) [[patched]](pizzatime-65/pizzatime-65.vbs)
+- pulp_fiction.vbs [[original]](Pulp%20Fiction%203.1/pulp_fiction.vbs.original#L2621) [[patch]](Pulp%20Fiction%203.1/pulp_fiction.vbs.patch) [[patched]](Pulp%20Fiction%203.1/pulp_fiction.vbs)
+- speakeasy2.vbs [[original]](speakeasy2/speakeasy2.vbs.original#L1775) [[patch]](speakeasy2/speakeasy2.vbs.patch) [[patched]](speakeasy2/speakeasy2.vbs)
+- speakeasy4.vbs [[original]](speakeasy4/speakeasy4.vbs.original#L1775) [[patch]](speakeasy4/speakeasy4.vbs.patch) [[patched]](speakeasy4/speakeasy4.vbs)
+- wackyraces.vbs [[original]](wackyraces/wackyraces.vbs.original#L2829) [[patch]](wackyraces/wackyraces.vbs.patch) [[patched]](wackyraces/wackyraces.vbs)
 
 ## CreateObject / FileSystemObject / WshShell removed (not supported in Wine)
 
@@ -185,28 +185,28 @@ Affected scripts:
 
 Affected scripts:
 
-- [ABBAv2.0.vbs](ABBAv2.0/ABBAv2.0.vbs#L47)
-- [Blood Machines 2.0.vbs](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs#L205)
-- [Bob Marley Mod.vbs](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs#L59)
-- [DarkPrincess1.3.1.vbs](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs#L161)
-- [Darkest Dungeon pupevent_2.3c.vbs](Darkest%20Dungeon%20pupevent_2.3c/Darkest%20Dungeon%20pupevent_2.3c.vbs#L175)
-- [Diablo Pinball v4.3.vbs](Diablo%20Pinball%20v4.3/Diablo%20Pinball%20v4.3.vbs#L2344)
-- [Fire Action (Taito do Brasil - 1980) v4.vbs](Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs#L1070)
-- [Freddys Nightmares.vbs](Freddys%20Nightmares/Freddys%20Nightmares.vbs#L110)
-- [Ice Age Christmas (Original Balutito 2021) endeemillr mod.vbs](Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod/Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod.vbs#L151)
-- [Iron Maiden Virtual Time (Original 2020).vbs](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs#L408)
-- [KISS (Stern 2015)_Bigus(MOD)1.1.vbs](KISS%20%28Stern%202015%29_Bigus%28MOD%291.1/KISS%20%28Stern%202015%29_Bigus%28MOD%291.1.vbs#L3642)
-- [Lawman (Gottlieb 1971) 1.1.vbs](Lawman%20%28Gottlieb%201971%29%201.1/Lawman%20%28Gottlieb%201971%29%201.1.vbs#L340)
-- [Led Zeppelin Pinball 2.5.vbs](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs#L461)
-- [Metal Slug_1.05.vbs](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs#L72)
-- [Sonic The Hedgehog (Brendan Bailey 2005) VPX MOD 1.33.vbs](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs#L156)
-- [Space Shuttle (Taito do Brasil - 1982) v4.vbs](Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4/Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4.vbs#L962)
-- [Spooky Wednesday Pro.vbs](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs#L46)
-- [Spooky_Wednesday VPX 2024.vbs](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs#L46)
-- [Student Prince (Williams 1968).vbs](Student%20Prince%20%28Williams%201968%29/Student%20Prince%20%28Williams%201968%29.vbs#L12)
-- [Three Angels (Original 2018) 1.3.vbs](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs#L291)
-- [Thundercats Pinball v1.0.9.vbs](Thundercats%20Pinball%20v1.0.9/Thundercats%20Pinball%20v1.0.9.vbs#L63)
-- [Vortex (Taito do Brasil - 1981) v4.vbs](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs#L46)
+- ABBAv2.0.vbs [[original]](ABBAv2.0/ABBAv2.0.vbs.original#L47) [[patch]](ABBAv2.0/ABBAv2.0.vbs.patch) [[patched]](ABBAv2.0/ABBAv2.0.vbs)
+- Blood Machines 2.0.vbs [[original]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.original#L205) [[patch]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.patch) [[patched]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs)
+- Bob Marley Mod.vbs [[original]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs.original#L59) [[patch]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs.patch) [[patched]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs)
+- DarkPrincess1.3.1.vbs [[original]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.original#L161) [[patch]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.patch) [[patched]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs)
+- Darkest Dungeon pupevent_2.3c.vbs [[original]](Darkest%20Dungeon%20pupevent_2.3c/Darkest%20Dungeon%20pupevent_2.3c.vbs.original#L175) [[patch]](Darkest%20Dungeon%20pupevent_2.3c/Darkest%20Dungeon%20pupevent_2.3c.vbs.patch) [[patched]](Darkest%20Dungeon%20pupevent_2.3c/Darkest%20Dungeon%20pupevent_2.3c.vbs)
+- Diablo Pinball v4.3.vbs [[original]](Diablo%20Pinball%20v4.3/Diablo%20Pinball%20v4.3.vbs.original#L2344) [[patch]](Diablo%20Pinball%20v4.3/Diablo%20Pinball%20v4.3.vbs.patch) [[patched]](Diablo%20Pinball%20v4.3/Diablo%20Pinball%20v4.3.vbs)
+- Fire Action (Taito do Brasil - 1980) v4.vbs [[original]](Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.original#L1070) [[patch]](Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.patch) [[patched]](Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Fire%20Action%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs)
+- Freddys Nightmares.vbs [[original]](Freddys%20Nightmares/Freddys%20Nightmares.vbs.original#L110) [[patch]](Freddys%20Nightmares/Freddys%20Nightmares.vbs.patch) [[patched]](Freddys%20Nightmares/Freddys%20Nightmares.vbs)
+- Ice Age Christmas (Original Balutito 2021) endeemillr mod.vbs [[original]](Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod/Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod.vbs.original#L151) [[patch]](Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod/Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod.vbs.patch) [[patched]](Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod/Ice%20Age%20Christmas%20%28Original%20Balutito%202021%29%20endeemillr%20mod.vbs)
+- Iron Maiden Virtual Time (Original 2020).vbs [[original]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs.original#L408) [[patch]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs.patch) [[patched]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs)
+- KISS (Stern 2015)_Bigus(MOD)1.1.vbs [[original]](KISS%20%28Stern%202015%29_Bigus%28MOD%291.1/KISS%20%28Stern%202015%29_Bigus%28MOD%291.1.vbs.original#L3642) [[patch]](KISS%20%28Stern%202015%29_Bigus%28MOD%291.1/KISS%20%28Stern%202015%29_Bigus%28MOD%291.1.vbs.patch) [[patched]](KISS%20%28Stern%202015%29_Bigus%28MOD%291.1/KISS%20%28Stern%202015%29_Bigus%28MOD%291.1.vbs)
+- Lawman (Gottlieb 1971) 1.1.vbs [[original]](Lawman%20%28Gottlieb%201971%29%201.1/Lawman%20%28Gottlieb%201971%29%201.1.vbs.original#L340) [[patch]](Lawman%20%28Gottlieb%201971%29%201.1/Lawman%20%28Gottlieb%201971%29%201.1.vbs.patch) [[patched]](Lawman%20%28Gottlieb%201971%29%201.1/Lawman%20%28Gottlieb%201971%29%201.1.vbs)
+- Led Zeppelin Pinball 2.5.vbs [[original]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs.original#L461) [[patch]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs.patch) [[patched]](Led%20Zeppelin%20Pinball%202.5/Led%20Zeppelin%20Pinball%202.5.vbs)
+- Metal Slug_1.05.vbs [[original]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.original#L72) [[patch]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.patch) [[patched]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs)
+- Sonic The Hedgehog (Brendan Bailey 2005) VPX MOD 1.33.vbs [[original]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs.original#L156) [[patch]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs.patch) [[patched]](Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33/Sonic%20The%20Hedgehog%20%28Brendan%20Bailey%202005%29%20VPX%20MOD%201.33.vbs)
+- Space Shuttle (Taito do Brasil - 1982) v4.vbs [[original]](Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4/Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4.vbs.original#L962) [[patch]](Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4/Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4.vbs.patch) [[patched]](Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4/Space%20Shuttle%20%28Taito%20do%20Brasil%20-%201982%29%20v4.vbs)
+- Spooky Wednesday Pro.vbs [[original]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs.original#L46) [[patch]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs.patch) [[patched]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs)
+- Spooky_Wednesday VPX 2024.vbs [[original]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs.original#L46) [[patch]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs.patch) [[patched]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs)
+- Student Prince (Williams 1968).vbs [[original]](Student%20Prince%20%28Williams%201968%29/Student%20Prince%20%28Williams%201968%29.vbs.original#L12) [[patch]](Student%20Prince%20%28Williams%201968%29/Student%20Prince%20%28Williams%201968%29.vbs.patch) [[patched]](Student%20Prince%20%28Williams%201968%29/Student%20Prince%20%28Williams%201968%29.vbs)
+- Three Angels (Original 2018) 1.3.vbs [[original]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs.original#L291) [[patch]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs.patch) [[patched]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs)
+- Thundercats Pinball v1.0.9.vbs [[original]](Thundercats%20Pinball%20v1.0.9/Thundercats%20Pinball%20v1.0.9.vbs.original#L63) [[patch]](Thundercats%20Pinball%20v1.0.9/Thundercats%20Pinball%20v1.0.9.vbs.patch) [[patched]](Thundercats%20Pinball%20v1.0.9/Thundercats%20Pinball%20v1.0.9.vbs)
+- Vortex (Taito do Brasil - 1981) v4.vbs [[original]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.original#L46) [[patch]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.patch) [[patched]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs)
 
 ## DMD standalone compatibility setup (ImplicitDMD_Init / UseVPMDMD)
 
@@ -234,9 +234,9 @@ Affected scripts:
 - [Star Trek LE (Stern 2013) v1.09.vbs.dmd](Star%20Trek%20LE%20%28Stern%202013%29%20v1.09/Star%20Trek%20LE%20%28Stern%202013%29%20v1.09.vbs.dmd#L91)
 - [Taxi (Williams 1988) VPW v1.2.2.vbs.dmd](Taxi%20%28Williams%201988%29%20VPW%20v1.2.2/Taxi%20%28Williams%201988%29%20VPW%20v1.2.2.vbs.dmd#L87)
 - The Goonies Never Say Die Pinball (VPW 2021) v1.4.vbs
-- [Three Angels (Original 2018) 1.3.vbs](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs#L291)
+- Three Angels (Original 2018) 1.3.vbs [[original]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs.original#L291) [[patch]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs.patch) [[patched]](Three%20Angels%20%28Original%202018%29%201.3/Three%20Angels%20%28Original%202018%29%201.3.vbs)
 - X-Files (Sega 1997) v1.29.vbs
-- [X-Files Hanibal 4k LED Edition.vbs](X-Files%20Hanibal%204k%20LED%20Edition/X-Files%20Hanibal%204k%20LED%20Edition.vbs#L15)
+- X-Files Hanibal 4k LED Edition.vbs [[original]](X-Files%20Hanibal%204k%20LED%20Edition/X-Files%20Hanibal%204k%20LED%20Edition.vbs.original#L15) [[patch]](X-Files%20Hanibal%204k%20LED%20Edition/X-Files%20Hanibal%204k%20LED%20Edition.vbs.patch) [[patched]](X-Files%20Hanibal%204k%20LED%20Edition/X-Files%20Hanibal%204k%20LED%20Edition.vbs)
 - [fireball II VPX.vbs.dmd](fireball%20II%20VPX/fireball%20II%20VPX.vbs.dmd#L38)
 
 ## Const declaration moved to different position (execution order fix)
@@ -247,22 +247,22 @@ VBScript evaluates code sequentially; a `Const` must be declared before its firs
 
 Affected scripts:
 
-- [AC-DC Pro Vault-1.0.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro%20Vault-1.0.vbs#L89)
-- [AC-DC Pro-1.0.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro-1.0.vbs#L89)
-- [AC-DC_Back In Black LE-1.5.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Back%20In%20Black%20LE-1.5.vbs#L98)
-- [AC-DC_Let There Be Rock LE-1.5.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Let%20There%20Be%20Rock%20LE-1.5.vbs#L98)
-- [AC-DC_Luci-1.5.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Luci-1.5.vbs#L98)
-- [AC-DC_Premium-1.5.vbs](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Premium-1.5.vbs#L98)
-- [Aztec (Williams 1976) 1.3 Mod Citedor JPJ-ARNGRIM-CED Team PP.vbs](Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP/Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP.vbs#L1)
-- [Aztec High-Tapped (Williams 1976).vbs](Aztec%20High-Tapped%20%28Williams%201976%29/Aztec%20High-Tapped%20%28Williams%201976%29.vbs#L1747)
-- [Cybernaut (Bally 1985)_Bigus(MOD)1.0.vbs](Cybernaut%20%28Bally%201985%29/Cybernaut%20%28Bally%201985%29_Bigus%28MOD%291.0.vbs#L40)
-- [Cybernaut darkmod.vbs](cybernaut%20Bally/Cybernaut%20darkmod.vbs#L43)
-- [Cybernaut.vbs](cybernaut%20Bally/Cybernaut.vbs#L55)
-- [Fireball Classic (Bally 1984)1.2.vbs](Fireball%20Classic%20%28Bally%201984%291.2/Fireball%20Classic%20%28Bally%201984%291.2.vbs#L1)
-- [Flash Gordon (Bally 1981) VPW Mod v3.0.vbs](Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0/Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0.vbs#L74)
-- [Harlem Globetrotters (Bally 1979) VPW 1.0.vbs](Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0/Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0.vbs#L249)
-- [High_Speed_(Williams 1986) v0.107a (MOD 3.0).vbs](High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29/High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29.vbs#L6)
-- [Rollercoaster Tycoon (Stern 2002) VPW 2.3.vbs](Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3/Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3.vbs#L53)
+- AC-DC Pro Vault-1.0.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro%20Vault-1.0.vbs.original#L89) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro%20Vault-1.0.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro%20Vault-1.0.vbs)
+- AC-DC Pro-1.0.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro-1.0.vbs.original#L89) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro-1.0.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC%20Pro-1.0.vbs)
+- AC-DC_Back In Black LE-1.5.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Back%20In%20Black%20LE-1.5.vbs.original#L98) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Back%20In%20Black%20LE-1.5.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Back%20In%20Black%20LE-1.5.vbs)
+- AC-DC_Let There Be Rock LE-1.5.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Let%20There%20Be%20Rock%20LE-1.5.vbs.original#L98) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Let%20There%20Be%20Rock%20LE-1.5.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Let%20There%20Be%20Rock%20LE-1.5.vbs)
+- AC-DC_Luci-1.5.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Luci-1.5.vbs.original#L98) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Luci-1.5.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Luci-1.5.vbs)
+- AC-DC_Premium-1.5.vbs [[original]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Premium-1.5.vbs.original#L98) [[patch]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Premium-1.5.vbs.patch) [[patched]](AC-DC%20ninuzzu%201.0%201.5/AC-DC_Premium-1.5.vbs)
+- Aztec (Williams 1976) 1.3 Mod Citedor JPJ-ARNGRIM-CED Team PP.vbs [[original]](Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP/Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP.vbs.original#L1) [[patch]](Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP/Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP.vbs.patch) [[patched]](Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP/Aztec%20%28Williams%201976%29%201.3%20Mod%20Citedor%20JPJ-ARNGRIM-CED%20Team%20PP.vbs)
+- Aztec High-Tapped (Williams 1976).vbs [[original]](Aztec%20High-Tapped%20%28Williams%201976%29/Aztec%20High-Tapped%20%28Williams%201976%29.vbs.original#L1747) [[patch]](Aztec%20High-Tapped%20%28Williams%201976%29/Aztec%20High-Tapped%20%28Williams%201976%29.vbs.patch) [[patched]](Aztec%20High-Tapped%20%28Williams%201976%29/Aztec%20High-Tapped%20%28Williams%201976%29.vbs)
+- Cybernaut (Bally 1985)_Bigus(MOD)1.0.vbs [[original]](Cybernaut%20%28Bally%201985%29/Cybernaut%20%28Bally%201985%29_Bigus%28MOD%291.0.vbs.original#L40) [[patch]](Cybernaut%20%28Bally%201985%29/Cybernaut%20%28Bally%201985%29_Bigus%28MOD%291.0.vbs.patch) [[patched]](Cybernaut%20%28Bally%201985%29/Cybernaut%20%28Bally%201985%29_Bigus%28MOD%291.0.vbs)
+- Cybernaut darkmod.vbs [[original]](cybernaut%20Bally/Cybernaut%20darkmod.vbs.original#L43) [[patch]](cybernaut%20Bally/Cybernaut%20darkmod.vbs.patch) [[patched]](cybernaut%20Bally/Cybernaut%20darkmod.vbs)
+- Cybernaut.vbs [[original]](cybernaut%20Bally/Cybernaut.vbs.original#L55) [[patch]](cybernaut%20Bally/Cybernaut.vbs.patch) [[patched]](cybernaut%20Bally/Cybernaut.vbs)
+- Fireball Classic (Bally 1984)1.2.vbs [[original]](Fireball%20Classic%20%28Bally%201984%291.2/Fireball%20Classic%20%28Bally%201984%291.2.vbs.original#L1) [[patch]](Fireball%20Classic%20%28Bally%201984%291.2/Fireball%20Classic%20%28Bally%201984%291.2.vbs.patch) [[patched]](Fireball%20Classic%20%28Bally%201984%291.2/Fireball%20Classic%20%28Bally%201984%291.2.vbs)
+- Flash Gordon (Bally 1981) VPW Mod v3.0.vbs [[original]](Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0/Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0.vbs.original#L74) [[patch]](Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0/Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0.vbs.patch) [[patched]](Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0/Flash%20Gordon%20%28Bally%201981%29%20VPW%20Mod%20v3.0.vbs)
+- Harlem Globetrotters (Bally 1979) VPW 1.0.vbs [[original]](Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0/Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0.vbs.original#L249) [[patch]](Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0/Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0.vbs.patch) [[patched]](Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0/Harlem%20Globetrotters%20%28Bally%201979%29%20VPW%201.0.vbs)
+- High_Speed_(Williams 1986) v0.107a (MOD 3.0).vbs [[original]](High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29/High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29.vbs.original#L6) [[patch]](High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29/High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29.vbs.patch) [[patched]](High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29/High_Speed_%28Williams%201986%29%20v0.107a%20%28MOD%203.0%29.vbs)
+- Rollercoaster Tycoon (Stern 2002) VPW 2.3.vbs [[original]](Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3/Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3.vbs.original#L53) [[patch]](Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3/Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3.vbs.patch) [[patched]](Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3/Rollercoaster%20Tycoon%20%28Stern%202002%29%20VPW%202.3.vbs)
 
 ## NVramPatch calls removed (not supported in standalone)
 
@@ -272,18 +272,18 @@ Affected scripts:
 
 Affected scripts:
 
-- [ABBAv2.0.vbs](ABBAv2.0/ABBAv2.0.vbs#L47)
-- [Bob Marley Mod.vbs](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs#L59)
-- [Cosmic (Taito do Brasil - 1980) v4.vbs](Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs#L56)
-- [Last Starfighter, The (Taito, 1983) hybrid v1.04.vbs](Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04/Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04.vbs#L104)
-- [Mr Black (Taito do Brasil - 1984) v4.vbs](Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4/Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4.vbs#L61)
-- [Oba Oba (Taito do Brasil - 1979) v55_VPX8.vbs](Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8/Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8.vbs#L55)
-- [Rally (Taito do Brasil - 1980) v4.vbs](Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs#L60)
-- [Titan (Taito do Brasil - 1981) v4.vbs](Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs#L57)
-- [Topaz (Inder 1979).vbs](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs#L100)
-- [Vortex (Taito do Brasil - 1981) v4.vbs](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs#L46)
-- [Warriors The Full DMD 2.0 (Iceman 2023).vbs](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs#L14)
-- [Wednesday (Netflix 2023).vbs](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs#L19)
+- ABBAv2.0.vbs [[original]](ABBAv2.0/ABBAv2.0.vbs.original#L47) [[patch]](ABBAv2.0/ABBAv2.0.vbs.patch) [[patched]](ABBAv2.0/ABBAv2.0.vbs)
+- Bob Marley Mod.vbs [[original]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs.original#L59) [[patch]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs.patch) [[patched]](Bob%20Marley%20Mod/Bob%20Marley%20Mod.vbs)
+- Cosmic (Taito do Brasil - 1980) v4.vbs [[original]](Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.original#L56) [[patch]](Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.patch) [[patched]](Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Cosmic%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs)
+- Last Starfighter, The (Taito, 1983) hybrid v1.04.vbs [[original]](Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04/Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04.vbs.original#L104) [[patch]](Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04/Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04.vbs.patch) [[patched]](Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04/Last%20Starfighter%2C%20The%20%28Taito%2C%201983%29%20hybrid%20v1.04.vbs)
+- Mr Black (Taito do Brasil - 1984) v4.vbs [[original]](Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4/Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4.vbs.original#L61) [[patch]](Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4/Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4.vbs.patch) [[patched]](Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4/Mr%20Black%20%28Taito%20do%20Brasil%20-%201984%29%20v4.vbs)
+- Oba Oba (Taito do Brasil - 1979) v55_VPX8.vbs [[original]](Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8/Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8.vbs.original#L55) [[patch]](Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8/Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8.vbs.patch) [[patched]](Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8/Oba%20Oba%20%28Taito%20do%20Brasil%20-%201979%29%20v55_VPX8.vbs)
+- Rally (Taito do Brasil - 1980) v4.vbs [[original]](Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.original#L60) [[patch]](Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs.patch) [[patched]](Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4/Rally%20%28Taito%20do%20Brasil%20-%201980%29%20v4.vbs)
+- Titan (Taito do Brasil - 1981) v4.vbs [[original]](Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.original#L57) [[patch]](Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.patch) [[patched]](Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Titan%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs)
+- Topaz (Inder 1979).vbs [[original]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs.original#L100) [[patch]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs.patch) [[patched]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs)
+- Vortex (Taito do Brasil - 1981) v4.vbs [[original]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.original#L46) [[patch]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.patch) [[patched]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs)
+- Warriors The Full DMD 2.0 (Iceman 2023).vbs [[original]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs.original#L14) [[patch]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs.patch) [[patched]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs)
+- Wednesday (Netflix 2023).vbs [[original]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs.original#L19) [[patch]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs.patch) [[patched]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs)
 
 ## cGameName (ROM name) constant fix
 
@@ -294,15 +294,15 @@ The `cGameName` constant sets the ROM name passed to VPinMAME. An incorrect ROM 
 Affected scripts:
 
 - [Bad Cats (Williams 1989) VPW 3.0.vbs.dmd](Bad%20Cats%20%28Williams%201989%29%20VPW%203.0/Bad%20Cats%20%28Williams%201989%29%20VPW%203.0.vbs.dmdcolored#L384)
-- [BeastieBoysv1.0.vbs](BeastieBoysv1.0/BeastieBoysv1.0.vbs#L100)
-- [Death Proof Balutito V2.vbs](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs#L207)
-- [PinBlob (CLV 2024).vbs](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs#L325)
-- [Safe Cracker (Bally 1996) v1.0.vbs](Safe%20Cracker%20%28Bally%201996%29%20v1.0/Safe%20Cracker%20%28Bally%201996%29%20v1.0.vbs#L54)
-- [Simpsons Treehouse of Horror MOD v2023.3 (Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3 base).vbs](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs#L95)
-- [South Park - Halloween.vbs](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs#L49)
-- [Theatre of Magic (Bally 1995) 2.4.vbs](Theatre%20of%20Magic%20%28Bally%201995%29%202.4/Theatre%20of%20Magic%20%28Bally%201995%29%202.4.vbs#L214)
-- [Warriors The Full DMD 2.0 (Iceman 2023).vbs](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs#L14)
-- [Wednesday (Netflix 2023).vbs](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs#L19)
+- BeastieBoysv1.0.vbs [[original]](BeastieBoysv1.0/BeastieBoysv1.0.vbs.original#L100) [[patch]](BeastieBoysv1.0/BeastieBoysv1.0.vbs.patch) [[patched]](BeastieBoysv1.0/BeastieBoysv1.0.vbs)
+- Death Proof Balutito V2.vbs [[original]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs.original#L207) [[patch]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs.patch) [[patched]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs)
+- PinBlob (CLV 2024).vbs [[original]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs.original#L325) [[patch]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs.patch) [[patched]](PinBlob%20%28CLV%202024%29/PinBlob%20%28CLV%202024%29.vbs)
+- Safe Cracker (Bally 1996) v1.0.vbs [[original]](Safe%20Cracker%20%28Bally%201996%29%20v1.0/Safe%20Cracker%20%28Bally%201996%29%20v1.0.vbs.original#L54) [[patch]](Safe%20Cracker%20%28Bally%201996%29%20v1.0/Safe%20Cracker%20%28Bally%201996%29%20v1.0.vbs.patch) [[patched]](Safe%20Cracker%20%28Bally%201996%29%20v1.0/Safe%20Cracker%20%28Bally%201996%29%20v1.0.vbs)
+- Simpsons Treehouse of Horror MOD v2023.3 (Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3 base).vbs [[original]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs.original#L95) [[patch]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs.patch) [[patched]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs)
+- South Park - Halloween.vbs [[original]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs.original#L49) [[patch]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs.patch) [[patched]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs)
+- Theatre of Magic (Bally 1995) 2.4.vbs [[original]](Theatre%20of%20Magic%20%28Bally%201995%29%202.4/Theatre%20of%20Magic%20%28Bally%201995%29%202.4.vbs.original#L214) [[patch]](Theatre%20of%20Magic%20%28Bally%201995%29%202.4/Theatre%20of%20Magic%20%28Bally%201995%29%202.4.vbs.patch) [[patched]](Theatre%20of%20Magic%20%28Bally%201995%29%202.4/Theatre%20of%20Magic%20%28Bally%201995%29%202.4.vbs)
+- Warriors The Full DMD 2.0 (Iceman 2023).vbs [[original]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs.original#L14) [[patch]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs.patch) [[patched]](Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29/Warriors%20The%20Full%20DMD%202.0%20%28Iceman%202023%29.vbs)
+- Wednesday (Netflix 2023).vbs [[original]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs.original#L19) [[patch]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs.patch) [[patched]](Wednesday%20%28Netflix%202023%29/Wednesday%20%28Netflix%202023%29.vbs)
 
 ## GetDMDColor function call removed (not available in standalone)
 
@@ -312,14 +312,14 @@ Affected scripts:
 
 Affected scripts:
 
-- [DarkPrincess1.3.1.vbs](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs#L161)
-- [Metal Slug_1.05.vbs](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs#L72)
-- [Motley Crue SS.vbs](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs#L5229)
-- [Sons Of Anarchy (Original 2019).vbs](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs#L51)
-- [Spooky Wednesday Pro.vbs](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs#L46)
-- [Spooky_Wednesday VPX 2024.vbs](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs#L46)
-- [Streets of Rage (TBA 2018).vbs](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs#L72)
-- [Three Angels (Original 2018) LW.vbs](Three%20Angels%20%28Original%202018%29%20LW/Three%20Angels%20%28Original%202018%29%20LW.vbs#L335)
+- DarkPrincess1.3.1.vbs [[original]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.original#L161) [[patch]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.patch) [[patched]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs)
+- Metal Slug_1.05.vbs [[original]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.original#L72) [[patch]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs.patch) [[patched]](Metal%20Slug_1.05/Metal%20Slug_1.05.vbs)
+- Motley Crue SS.vbs [[original]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs.original#L5229) [[patch]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs.patch) [[patched]](Motley%20Crue%20SS/Motley%20Crue%20SS.vbs)
+- Sons Of Anarchy (Original 2019).vbs [[original]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs.original#L51) [[patch]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs.patch) [[patched]](Sons%20Of%20Anarchy%20%28Original%202019%29/Sons%20Of%20Anarchy%20%28Original%202019%29.vbs)
+- Spooky Wednesday Pro.vbs [[original]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs.original#L46) [[patch]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs.patch) [[patched]](Spooky%20Wednesday%20Pro/Spooky%20Wednesday%20Pro.vbs)
+- Spooky_Wednesday VPX 2024.vbs [[original]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs.original#L46) [[patch]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs.patch) [[patched]](Spooky_Wednesday%20VPX%202024/Spooky_Wednesday%20VPX%202024.vbs)
+- Streets of Rage (TBA 2018).vbs [[original]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs.original#L72) [[patch]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs.patch) [[patched]](Streets%20of%20Rage%20%28TBA%202018%29/Streets%20of%20Rage%20%28TBA%202018%29.vbs)
+- Three Angels (Original 2018) LW.vbs [[original]](Three%20Angels%20%28Original%202018%29%20LW/Three%20Angels%20%28Original%202018%29%20LW.vbs.original#L335) [[patch]](Three%20Angels%20%28Original%202018%29%20LW/Three%20Angels%20%28Original%202018%29%20LW.vbs.patch) [[patched]](Three%20Angels%20%28Original%202018%29%20LW/Three%20Angels%20%28Original%202018%29%20LW.vbs)
 
 ## Execute/ExecuteGlobal with object Set in loop (replaced with IsObject check)
 
@@ -329,12 +329,12 @@ Affected scripts:
 
 Affected scripts:
 
-- [1455577933_MedievalMadness_Upgrade(Real_Final).vbs](1455577933_MedievalMadness_Upgrade%28Real_Final%29/1455577933_MedievalMadness_Upgrade%28Real_Final%29.vbs#L2185)
-- [Bram Stokers Dracula (1993).vbs](Bram%20Stoker%27s%20Dracula%20%28Williams%201993%29/Bram%20Stokers%20Dracula%20%281993%29.vbs#L161)
-- [Cirqus_Voltaire_Hanibal-Mod_3.7.vbs](Cirqus_Voltaire_Hanibal-Mod_3.7/Cirqus_Voltaire_Hanibal-Mod_3.7.vbs#L1282)
-- [VP10-Terminator 3 (Stern 2003) Hanibal v1.5.vbs](Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5/VP10-Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5.vbs#L1236)
-- [Vampirella.vbs](Vampirella/Vampirella.vbs#L1)
-- [Vampirella1 .3.vbs](Vampirella1%20.3/Vampirella1%20.3.vbs#L84)
+- 1455577933_MedievalMadness_Upgrade(Real_Final).vbs [[original]](1455577933_MedievalMadness_Upgrade%28Real_Final%29/1455577933_MedievalMadness_Upgrade%28Real_Final%29.vbs.original#L2185) [[patch]](1455577933_MedievalMadness_Upgrade%28Real_Final%29/1455577933_MedievalMadness_Upgrade%28Real_Final%29.vbs.patch) [[patched]](1455577933_MedievalMadness_Upgrade%28Real_Final%29/1455577933_MedievalMadness_Upgrade%28Real_Final%29.vbs)
+- Bram Stokers Dracula (1993).vbs [[original]](Bram%20Stoker%27s%20Dracula%20%28Williams%201993%29/Bram%20Stokers%20Dracula%20%281993%29.vbs.original#L161) [[patch]](Bram%20Stoker%27s%20Dracula%20%28Williams%201993%29/Bram%20Stokers%20Dracula%20%281993%29.vbs.patch) [[patched]](Bram%20Stoker%27s%20Dracula%20%28Williams%201993%29/Bram%20Stokers%20Dracula%20%281993%29.vbs)
+- Cirqus_Voltaire_Hanibal-Mod_3.7.vbs [[original]](Cirqus_Voltaire_Hanibal-Mod_3.7/Cirqus_Voltaire_Hanibal-Mod_3.7.vbs.original#L1282) [[patch]](Cirqus_Voltaire_Hanibal-Mod_3.7/Cirqus_Voltaire_Hanibal-Mod_3.7.vbs.patch) [[patched]](Cirqus_Voltaire_Hanibal-Mod_3.7/Cirqus_Voltaire_Hanibal-Mod_3.7.vbs)
+- VP10-Terminator 3 (Stern 2003) Hanibal v1.5.vbs [[original]](Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5/VP10-Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5.vbs.original#L1236) [[patch]](Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5/VP10-Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5.vbs.patch) [[patched]](Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5/VP10-Terminator%203%20%28Stern%202003%29%20Hanibal%20v1.5.vbs)
+- Vampirella.vbs [[original]](Vampirella/Vampirella.vbs.original#L1) [[patch]](Vampirella/Vampirella.vbs.patch) [[patched]](Vampirella/Vampirella.vbs)
+- Vampirella1 .3.vbs [[original]](Vampirella1%20.3/Vampirella1%20.3.vbs.original#L84) [[patch]](Vampirella1%20.3/Vampirella1%20.3.vbs.patch) [[patched]](Vampirella1%20.3/Vampirella1%20.3.vbs)
 
 ## Nested Sub definition extracted to top level
 
@@ -344,12 +344,12 @@ VBScript does not allow a `Sub` to be defined inside another `Sub`. Scripts that
 
 Affected scripts:
 
-- [1679379865_jurassicparklimitededition.vbs](1679379865_jurassicparklimitededition/1679379865_jurassicparklimitededition.vbs#L493)
-- [Stranger Things (Original 2020) LW.vbs](Stranger%20Things%20%28Original%202020%29%20LW%202.0.1/Stranger%20Things%20%28Original%202020%29%20LW.vbs#L361)
-- [Stranger Things - SE 1.47_OSB.vbs](Stranger%20Things%20-%20SE%201.47_OSB/Stranger%20Things%20-%20SE%201.47_OSB.vbs#L358)
-- [Stranger Things 4 Premium.vbs](Stranger%20Things%204%20Premium/Stranger%20Things%204%20Premium.vbs#L84)
-- [The Beatles_007.vbs](The%20Beatles_007/The%20Beatles_007.vbs#L196)
-- [tlk-0.35.vbs](tlk-0.35/tlk-0.35.vbs#L507)
+- 1679379865_jurassicparklimitededition.vbs [[original]](1679379865_jurassicparklimitededition/1679379865_jurassicparklimitededition.vbs.original#L493) [[patch]](1679379865_jurassicparklimitededition/1679379865_jurassicparklimitededition.vbs.patch) [[patched]](1679379865_jurassicparklimitededition/1679379865_jurassicparklimitededition.vbs)
+- Stranger Things (Original 2020) LW.vbs [[original]](Stranger%20Things%20%28Original%202020%29%20LW%202.0.1/Stranger%20Things%20%28Original%202020%29%20LW.vbs.original#L361) [[patch]](Stranger%20Things%20%28Original%202020%29%20LW%202.0.1/Stranger%20Things%20%28Original%202020%29%20LW.vbs.patch) [[patched]](Stranger%20Things%20%28Original%202020%29%20LW%202.0.1/Stranger%20Things%20%28Original%202020%29%20LW.vbs)
+- Stranger Things - SE 1.47_OSB.vbs [[original]](Stranger%20Things%20-%20SE%201.47_OSB/Stranger%20Things%20-%20SE%201.47_OSB.vbs.original#L358) [[patch]](Stranger%20Things%20-%20SE%201.47_OSB/Stranger%20Things%20-%20SE%201.47_OSB.vbs.patch) [[patched]](Stranger%20Things%20-%20SE%201.47_OSB/Stranger%20Things%20-%20SE%201.47_OSB.vbs)
+- Stranger Things 4 Premium.vbs [[original]](Stranger%20Things%204%20Premium/Stranger%20Things%204%20Premium.vbs.original#L84) [[patch]](Stranger%20Things%204%20Premium/Stranger%20Things%204%20Premium.vbs.patch) [[patched]](Stranger%20Things%204%20Premium/Stranger%20Things%204%20Premium.vbs)
+- The Beatles_007.vbs [[original]](The%20Beatles_007/The%20Beatles_007.vbs.original#L196) [[patch]](The%20Beatles_007/The%20Beatles_007.vbs.patch) [[patched]](The%20Beatles_007/The%20Beatles_007.vbs)
+- tlk-0.35.vbs [[original]](tlk-0.35/tlk-0.35.vbs.original#L507) [[patch]](tlk-0.35/tlk-0.35.vbs.patch) [[patched]](tlk-0.35/tlk-0.35.vbs)
 
 ## gBOT replaced with getballs() function call
 
@@ -359,12 +359,12 @@ The `gBOT` global variable holds the current ball collection in older VPX script
 
 Affected scripts:
 
-- [Atlantis (Bally 1989) w VR Room v2.0.vbs](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs#L3029)
-- [Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs#L2687)
-- [Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs#L1544)
-- [Iron Man Vault Edition (Stern 2010) VPW v1.0.vbs](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs#L3280)
-- [Laser War (Data East 1987) w VR Room v2.0.vbs](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs#L1409)
-- [X-Men LE (Stern 2012) VPW v1.0.vbs](X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0/X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0.vbs#L3214)
+- Atlantis (Bally 1989) w VR Room v2.0.vbs [[original]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.original#L3029) [[patch]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs)
+- Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs [[original]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.original#L2687) [[patch]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs [[original]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.original#L1544) [[patch]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Iron Man Vault Edition (Stern 2010) VPW v1.0.vbs [[original]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs.original#L3280) [[patch]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs.patch) [[patched]](Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0/Iron%20Man%20Vault%20Edition%20%28Stern%202010%29%20VPW%20v1.0.vbs)
+- Laser War (Data East 1987) w VR Room v2.0.vbs [[original]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.original#L1409) [[patch]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs)
+- X-Men LE (Stern 2012) VPW v1.0.vbs [[original]](X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0/X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0.vbs.original#L3214) [[patch]](X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0/X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0.vbs.patch) [[patched]](X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0/X-Men%20LE%20%28Stern%202012%29%20VPW%20v1.0.vbs)
 
 ## File path case sensitivity fix (Linux filesystem)
 
@@ -374,12 +374,12 @@ Linux file systems are case-sensitive, unlike Windows NTFS. File names embedded 
 
 Affected scripts:
 
-- [Beavis and Butt-head_Pinballed.vbs](Beavis%20and%20Butt-head_Pinballed/Beavis%20and%20Butt-head_Pinballed.vbs#L51)
-- [Blood Machines 2.0.vbs](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs#L205)
-- [DarkPrincess1.3.1.vbs](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs#L161)
-- [StarWars BountyHunter 3.02.vbs](StarWars%20BountyHunter%203.02/StarWars%20BountyHunter%203.02.vbs#L55)
-- [Thunderbirds original 2022 v1.0.2.vbs](Thunderbirds%20original%202022%20v1.0.2/Thunderbirds%20original%202022%20v1.0.2.vbs#L115)
-- [UT99CTF_GE_2.3.vbs](UT99CTF_GE_2.3/UT99CTF_GE_2.3.vbs#L1203)
+- Beavis and Butt-head_Pinballed.vbs [[original]](Beavis%20and%20Butt-head_Pinballed/Beavis%20and%20Butt-head_Pinballed.vbs.original#L51) [[patch]](Beavis%20and%20Butt-head_Pinballed/Beavis%20and%20Butt-head_Pinballed.vbs.patch) [[patched]](Beavis%20and%20Butt-head_Pinballed/Beavis%20and%20Butt-head_Pinballed.vbs)
+- Blood Machines 2.0.vbs [[original]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.original#L205) [[patch]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs.patch) [[patched]](Blood%20Machines%202.0/Blood%20Machines%202.0.vbs)
+- DarkPrincess1.3.1.vbs [[original]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.original#L161) [[patch]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs.patch) [[patched]](DarkPrincess1.3.1/DarkPrincess1.3.1.vbs)
+- StarWars BountyHunter 3.02.vbs [[original]](StarWars%20BountyHunter%203.02/StarWars%20BountyHunter%203.02.vbs.original#L55) [[patch]](StarWars%20BountyHunter%203.02/StarWars%20BountyHunter%203.02.vbs.patch) [[patched]](StarWars%20BountyHunter%203.02/StarWars%20BountyHunter%203.02.vbs)
+- Thunderbirds original 2022 v1.0.2.vbs [[original]](Thunderbirds%20original%202022%20v1.0.2/Thunderbirds%20original%202022%20v1.0.2.vbs.original#L115) [[patch]](Thunderbirds%20original%202022%20v1.0.2/Thunderbirds%20original%202022%20v1.0.2.vbs.patch) [[patched]](Thunderbirds%20original%202022%20v1.0.2/Thunderbirds%20original%202022%20v1.0.2.vbs)
+- UT99CTF_GE_2.3.vbs [[original]](UT99CTF_GE_2.3/UT99CTF_GE_2.3.vbs.original#L1203) [[patch]](UT99CTF_GE_2.3/UT99CTF_GE_2.3.vbs.patch) [[patched]](UT99CTF_GE_2.3/UT99CTF_GE_2.3.vbs)
 
 ## Incorrect boolean expression (IsGIOn <> Not IsOff)
 
@@ -389,11 +389,11 @@ Affected scripts:
 
 Affected scripts:
 
-- [AceOfSpeed.vbs](AceOfSpeed/AceOfSpeed.vbs#L245)
-- [Death Proof Balutito V2.vbs](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs#L207)
-- [Iron Maiden Virtual Time (Original 2020).vbs](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs#L408)
-- [Laser War (Data East 1987) w VR Room v2.0.vbs](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs#L1409)
-- [Mousin' Around! (Bally 1989) w VR Room v2.1.vbs](Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1/Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1.vbs#L276)
+- AceOfSpeed.vbs [[original]](AceOfSpeed/AceOfSpeed.vbs.original#L245) [[patch]](AceOfSpeed/AceOfSpeed.vbs.patch) [[patched]](AceOfSpeed/AceOfSpeed.vbs)
+- Death Proof Balutito V2.vbs [[original]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs.original#L207) [[patch]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs.patch) [[patched]](Death%20Proof%20Balutito%20V2/Death%20Proof%20Balutito%20V2.vbs)
+- Iron Maiden Virtual Time (Original 2020).vbs [[original]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs.original#L408) [[patch]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs.patch) [[patched]](Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29/Iron%20Maiden%20Virtual%20Time%20%28Original%202020%29.vbs)
+- Laser War (Data East 1987) w VR Room v2.0.vbs [[original]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.original#L1409) [[patch]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs)
+- Mousin' Around! (Bally 1989) w VR Room v2.1.vbs [[original]](Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1/Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1.vbs.original#L276) [[patch]](Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1/Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1.vbs.patch) [[patched]](Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1/Mousin%27%20Around%21%20%28Bally%201989%29%20w%20VR%20Room%20v2.1.vbs)
 
 ## Configuration constant value changed for standalone compatibility
 
@@ -403,10 +403,10 @@ Certain constants (e.g. `cController`, `PupScreenMiniGame`, `Mute_Sound_For_PuPP
 
 Affected scripts:
 
-- [Bart VS the Space Mutants 1.1.vbs](Bart%20VS%20the%20Space%20Mutants%201.1/Bart%20VS%20the%20Space%20Mutants%201.1.vbs#L33)
+- Bart VS the Space Mutants 1.1.vbs [[original]](Bart%20VS%20the%20Space%20Mutants%201.1/Bart%20VS%20the%20Space%20Mutants%201.1.vbs.original#L33) [[patch]](Bart%20VS%20the%20Space%20Mutants%201.1/Bart%20VS%20the%20Space%20Mutants%201.1.vbs.patch) [[patched]](Bart%20VS%20the%20Space%20Mutants%201.1/Bart%20VS%20the%20Space%20Mutants%201.1.vbs)
 - [Centaur (Bally 1981).vbs.dmd](Centaur%20%28Bally%201981%29/Centaur%20%28Bally%201981%29.vbs.dmd#L6)
-- [Dream Daddy1.5.vbs](Dream%20Daddy1.5/Dream%20Daddy1.5.vbs#L69)
-- [Heavy Metal Meltdown (Bally 1987).vbs](Heavy%20Metal%20Meltdown%20%28Bally%201987%29/Heavy%20Metal%20Meltdown%20%28Bally%201987%29.vbs#L12)
+- Dream Daddy1.5.vbs [[original]](Dream%20Daddy1.5/Dream%20Daddy1.5.vbs.original#L69) [[patch]](Dream%20Daddy1.5/Dream%20Daddy1.5.vbs.patch) [[patched]](Dream%20Daddy1.5/Dream%20Daddy1.5.vbs)
+- Heavy Metal Meltdown (Bally 1987).vbs [[original]](Heavy%20Metal%20Meltdown%20%28Bally%201987%29/Heavy%20Metal%20Meltdown%20%28Bally%201987%29.vbs.original#L12) [[patch]](Heavy%20Metal%20Meltdown%20%28Bally%201987%29/Heavy%20Metal%20Meltdown%20%28Bally%201987%29.vbs.patch) [[patched]](Heavy%20Metal%20Meltdown%20%28Bally%201987%29/Heavy%20Metal%20Meltdown%20%28Bally%201987%29.vbs)
 - [Megadeth (original).vbs.dmd](Megadeth%20%28original%29/Megadeth%20%28original%29.vbs.dmd#L66)
 
 ## Sub/Function definition with inline code (no newline after definition)
@@ -417,11 +417,11 @@ Placing code on the same line as the `Sub` or `Function` header (e.g. `Sub Sw18_
 
 Affected scripts:
 
-- [Bugs Bunny's Birthday Ball (Bally 1991)Rev2.3b.vbs](Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b/Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b.vbs#L798)
-- [Cue Ball Wizard (Gottlieb 1992) v1.1.2.vbs](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs#L1503)
-- [Haunted House (Gottlieb 1982) 1.0.vbs](Haunted%20House%20%28Gottlieb%201982%29%201.0/Haunted%20House%20%28Gottlieb%201982%29%201.0.vbs#L2980)
-- [Haunted House (Gottlieb 1982)_Bigus(MOD)1.0.vbs](Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0/Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0.vbs#L2970)
-- [Scared Stiff (Bally 1996) v1.29.vbs](Scared%20Stiff%20%28Bally%201996%29%20v1.29/Scared%20Stiff%20%28Bally%201996%29%20v1.29.vbs#L466)
+- Bugs Bunny's Birthday Ball (Bally 1991)Rev2.3b.vbs [[original]](Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b/Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b.vbs.original#L798) [[patch]](Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b/Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b.vbs.patch) [[patched]](Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b/Bugs%20Bunny%27s%20Birthday%20Ball%20%28Bally%201991%29Rev2.3b.vbs)
+- Cue Ball Wizard (Gottlieb 1992) v1.1.2.vbs [[original]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs.original#L1503) [[patch]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs.patch) [[patched]](Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2/Cue%20Ball%20Wizard%20%28Gottlieb%201992%29%20v1.1.2.vbs)
+- Haunted House (Gottlieb 1982) 1.0.vbs [[original]](Haunted%20House%20%28Gottlieb%201982%29%201.0/Haunted%20House%20%28Gottlieb%201982%29%201.0.vbs.original#L2980) [[patch]](Haunted%20House%20%28Gottlieb%201982%29%201.0/Haunted%20House%20%28Gottlieb%201982%29%201.0.vbs.patch) [[patched]](Haunted%20House%20%28Gottlieb%201982%29%201.0/Haunted%20House%20%28Gottlieb%201982%29%201.0.vbs)
+- Haunted House (Gottlieb 1982)_Bigus(MOD)1.0.vbs [[original]](Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0/Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0.vbs.original#L2970) [[patch]](Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0/Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0.vbs.patch) [[patched]](Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0/Haunted%20House%20%28Gottlieb%201982%29_Bigus%28MOD%291.0.vbs)
+- Scared Stiff (Bally 1996) v1.29.vbs [[original]](Scared%20Stiff%20%28Bally%201996%29%20v1.29/Scared%20Stiff%20%28Bally%201996%29%20v1.29.vbs.original#L466) [[patch]](Scared%20Stiff%20%28Bally%201996%29%20v1.29/Scared%20Stiff%20%28Bally%201996%29%20v1.29.vbs.patch) [[patched]](Scared%20Stiff%20%28Bally%201996%29%20v1.29/Scared%20Stiff%20%28Bally%201996%29%20v1.29.vbs)
 
 ## For Each loop variable reused (causes error in Wine)
 
@@ -431,10 +431,10 @@ Reusing the same loop variable in nested or back-to-back `For Each` loops causes
 
 Affected scripts:
 
-- [Atlantis (Bally 1989) w VR Room v2.0.vbs](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs#L3029)
-- [Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs#L2687)
-- [Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs#L1544)
-- [Laser War (Data East 1987) w VR Room v2.0.vbs](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs#L1409)
+- Atlantis (Bally 1989) w VR Room v2.0.vbs [[original]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.original#L3029) [[patch]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0/Atlantis%20%28Bally%201989%29%20w%20VR%20Room%20v2.0.vbs)
+- Black Knight 2000 (Williams 1989) w VR Room v2.0.2.vbs [[original]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.original#L2687) [[patch]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2/Black%20Knight%202000%20%28Williams%201989%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Cactus Jacks (Gottlieb 1991) w VR Room v2.0.2.vbs [[original]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.original#L1544) [[patch]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs.patch) [[patched]](Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2/Cactus%20Jacks%20%28Gottlieb%201991%29%20w%20VR%20Room%20v2.0.2.vbs)
+- Laser War (Data East 1987) w VR Room v2.0.vbs [[original]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.original#L1409) [[patch]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs.patch) [[patched]](Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0/Laser%20War%20%28Data%20East%201987%29%20w%20VR%20Room%20v2.0.vbs)
 
 ## UseVPMDMD variable renamed to UseVPMColoredDMD
 
@@ -457,10 +457,10 @@ Wine's VBScript is stricter about built-in function capitalisation. `typename(x)
 
 Affected scripts:
 
-- [Elvis_MOD_2.0.vbs](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs#L626)
-- [Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3.vbs](Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3/Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3.vbs#L3332)
-- [Simpsons Treehouse of Horror MOD v2023.3 (Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3 base).vbs](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs#L95)
-- [TX-Sector (Gottlieb 1988) SG1bsoN Mod V1.1.vbs](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs#L809)
+- Elvis_MOD_2.0.vbs [[original]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs.original#L626) [[patch]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs.patch) [[patched]](Elvis_MOD_2.0/Elvis_MOD_2.0.vbs)
+- Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3.vbs [[original]](Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3/Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3.vbs.original#L3332) [[patch]](Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3/Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3.vbs.patch) [[patched]](Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3/Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3.vbs)
+- Simpsons Treehouse of Horror MOD v2023.3 (Simpsons Pinball Party, The (Stern 2003) VPW 2.0.3 base).vbs [[original]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs.original#L95) [[patch]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs.patch) [[patched]](Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29/Simpsons%20Treehouse%20of%20Horror%20MOD%20v2023.3%20%28Simpsons%20Pinball%20Party%2C%20The%20%28Stern%202003%29%20VPW%202.0.3%20base%29.vbs)
+- TX-Sector (Gottlieb 1988) SG1bsoN Mod V1.1.vbs [[original]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs.original#L809) [[patch]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs.patch) [[patched]](TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1/TX-Sector%20%28Gottlieb%201988%29%20SG1bsoN%20Mod%20V1.1.vbs)
 
 ## Statement starting with colon (invalid VBScript syntax)
 
@@ -470,10 +470,10 @@ Lines that begin with `:` followed by a statement (e.g. `        : Controller.B2
 
 Affected scripts:
 
-- [Junkyard Cats_1.07.vbs](Junkyard%20Cats_1.07/Junkyard%20Cats_1.07.vbs#L508)
-- [NBA (Stern 2009)_Bigus(MOD)1.4.vbs](NBA%20%28Stern%202009%29_Bigus%28MOD%291.4/NBA%20%28Stern%202009%29_Bigus%28MOD%291.4.vbs#L279)
-- [Scarface - Balls and Power 1.2.vbs](Scarface%20-%20Balls%20and%20Power%201.2/Scarface%20-%20Balls%20and%20Power%201.2.vbs#L1000)
-- [The Fifth Element 1.3.vbs](The%20Fifth%20Element%201.3/The%20Fifth%20Element%201.3.vbs#L478)
+- Junkyard Cats_1.07.vbs [[original]](Junkyard%20Cats_1.07/Junkyard%20Cats_1.07.vbs.original#L508) [[patch]](Junkyard%20Cats_1.07/Junkyard%20Cats_1.07.vbs.patch) [[patched]](Junkyard%20Cats_1.07/Junkyard%20Cats_1.07.vbs)
+- NBA (Stern 2009)_Bigus(MOD)1.4.vbs [[original]](NBA%20%28Stern%202009%29_Bigus%28MOD%291.4/NBA%20%28Stern%202009%29_Bigus%28MOD%291.4.vbs.original#L279) [[patch]](NBA%20%28Stern%202009%29_Bigus%28MOD%291.4/NBA%20%28Stern%202009%29_Bigus%28MOD%291.4.vbs.patch) [[patched]](NBA%20%28Stern%202009%29_Bigus%28MOD%291.4/NBA%20%28Stern%202009%29_Bigus%28MOD%291.4.vbs)
+- Scarface - Balls and Power 1.2.vbs [[original]](Scarface%20-%20Balls%20and%20Power%201.2/Scarface%20-%20Balls%20and%20Power%201.2.vbs.original#L1000) [[patch]](Scarface%20-%20Balls%20and%20Power%201.2/Scarface%20-%20Balls%20and%20Power%201.2.vbs.patch) [[patched]](Scarface%20-%20Balls%20and%20Power%201.2/Scarface%20-%20Balls%20and%20Power%201.2.vbs)
+- The Fifth Element 1.3.vbs [[original]](The%20Fifth%20Element%201.3/The%20Fifth%20Element%201.3.vbs.original#L478) [[patch]](The%20Fifth%20Element%201.3/The%20Fifth%20Element%201.3.vbs.patch) [[patched]](The%20Fifth%20Element%201.3/The%20Fifth%20Element%201.3.vbs)
 
 ## UBound casing fix (Ubound → UBound)
 
@@ -483,9 +483,9 @@ Wine's VBScript is stricter about built-in function capitalisation. `Ubound` mus
 
 Affected scripts:
 
-- [Monkey Island VR Room.vbs](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs#L240)
-- [Power Play (Bally 1977).vbs](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs#L922)
-- [monkeyisland.vbs](Monkeyislandv1.1/monkeyisland.vbs#L2441)
+- Monkey Island VR Room.vbs [[original]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs.original#L240) [[patch]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs.patch) [[patched]](Monkey%20Island%20VR%20Room/Monkey%20Island%20VR%20Room.vbs)
+- Power Play (Bally 1977).vbs [[original]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs.original#L922) [[patch]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs.patch) [[patched]](1256692067_PowerPlay%28Bally1977%292.1/Power%20Play%20%28Bally%201977%29.vbs)
+- monkeyisland.vbs [[original]](Monkeyislandv1.1/monkeyisland.vbs.original#L2441) [[patch]](Monkeyislandv1.1/monkeyisland.vbs.patch) [[patched]](Monkeyislandv1.1/monkeyisland.vbs)
 
 ## Double-dot in string callback (e.g. "obj..Method")
 
@@ -495,9 +495,9 @@ SolCallback strings like `"dtbank..SolHit"` contain a double dot, which is inval
 
 Affected scripts:
 
-- [ABBAv2.0.vbs](ABBAv2.0/ABBAv2.0.vbs#L47)
-- [Alfred Hitchcock's Psycho (TBA 2019).vbs](Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29/Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29.vbs#L292)
-- [Vortex (Taito do Brasil - 1981) v4.vbs](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs#L46)
+- ABBAv2.0.vbs [[original]](ABBAv2.0/ABBAv2.0.vbs.original#L47) [[patch]](ABBAv2.0/ABBAv2.0.vbs.patch) [[patched]](ABBAv2.0/ABBAv2.0.vbs)
+- Alfred Hitchcock's Psycho (TBA 2019).vbs [[original]](Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29/Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29.vbs.original#L292) [[patch]](Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29/Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29.vbs.patch) [[patched]](Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29/Alfred%20Hitchcock%27s%20Psycho%20%28TBA%202019%29.vbs)
+- Vortex (Taito do Brasil - 1981) v4.vbs [[original]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.original#L46) [[patch]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs.patch) [[patched]](Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4/Vortex%20%28Taito%20do%20Brasil%20-%201981%29%20v4.vbs)
 
 ## Hex literal with excess leading zeros (e.g. &H000000031)
 
@@ -507,9 +507,9 @@ A hex literal with an odd or excessive number of digits (e.g. `&H000000031` — 
 
 Affected scripts:
 
-- [Andromeda (Game Plan 1985) v4.vbs](Andromeda%20%28Game%20Plan%201985%29%20v4/Andromeda%20%28Game%20Plan%201985%29%20v4.vbs#L922)
-- [Grand Slam (Bally 1983) 2.3.vbs](Grand%20Slam%20%28Bally%201983%29%202.3/Grand%20Slam%20%28Bally%201983%29%202.3.vbs#L791)
-- [Topaz (Inder 1979).vbs](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs#L100)
+- Andromeda (Game Plan 1985) v4.vbs [[original]](Andromeda%20%28Game%20Plan%201985%29%20v4/Andromeda%20%28Game%20Plan%201985%29%20v4.vbs.original#L922) [[patch]](Andromeda%20%28Game%20Plan%201985%29%20v4/Andromeda%20%28Game%20Plan%201985%29%20v4.vbs.patch) [[patched]](Andromeda%20%28Game%20Plan%201985%29%20v4/Andromeda%20%28Game%20Plan%201985%29%20v4.vbs)
+- Grand Slam (Bally 1983) 2.3.vbs [[original]](Grand%20Slam%20%28Bally%201983%29%202.3/Grand%20Slam%20%28Bally%201983%29%202.3.vbs.original#L791) [[patch]](Grand%20Slam%20%28Bally%201983%29%202.3/Grand%20Slam%20%28Bally%201983%29%202.3.vbs.patch) [[patched]](Grand%20Slam%20%28Bally%201983%29%202.3/Grand%20Slam%20%28Bally%201983%29%202.3.vbs)
+- Topaz (Inder 1979).vbs [[original]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs.original#L100) [[patch]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs.patch) [[patched]](Topaz%20%28Inder%201979%29/Topaz%20%28Inder%201979%29.vbs)
 
 ## Me(Idx) collection indexer replaced with named collection
 
@@ -519,9 +519,9 @@ Inside a VBScript `Class`, `Me(n)` is not a valid way to index a collection unde
 
 Affected scripts:
 
-- [Four Seasons (Gottlieb 1968).vbs](Four%20Seasons%20%28Gottlieb%201968%29/Four%20Seasons%20%28Gottlieb%201968%29.vbs#L1214)
-- [Four Seasons (Gottlieb 1968)_Teisen_MOD.vbs](Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD/Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD.vbs#L1219)
-- [Roller Coaster (Gottlieb 1971)x.vbs](Roller%20Coaster%20%28Gottlieb%201971%29x/Roller%20Coaster%20%28Gottlieb%201971%29x.vbs#L1037)
+- Four Seasons (Gottlieb 1968).vbs [[original]](Four%20Seasons%20%28Gottlieb%201968%29/Four%20Seasons%20%28Gottlieb%201968%29.vbs.original#L1214) [[patch]](Four%20Seasons%20%28Gottlieb%201968%29/Four%20Seasons%20%28Gottlieb%201968%29.vbs.patch) [[patched]](Four%20Seasons%20%28Gottlieb%201968%29/Four%20Seasons%20%28Gottlieb%201968%29.vbs)
+- Four Seasons (Gottlieb 1968)_Teisen_MOD.vbs [[original]](Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD/Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD.vbs.original#L1219) [[patch]](Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD/Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD.vbs.patch) [[patched]](Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD/Four%20Seasons%20%28Gottlieb%201968%29_Teisen_MOD.vbs)
+- Roller Coaster (Gottlieb 1971)x.vbs [[original]](Roller%20Coaster%20%28Gottlieb%201971%29x/Roller%20Coaster%20%28Gottlieb%201971%29x.vbs.original#L1037) [[patch]](Roller%20Coaster%20%28Gottlieb%201971%29x/Roller%20Coaster%20%28Gottlieb%201971%29x.vbs.patch) [[patched]](Roller%20Coaster%20%28Gottlieb%201971%29x/Roller%20Coaster%20%28Gottlieb%201971%29x.vbs)
 
 ## Trim.visible assignment removed (Trim is a VBScript reserved function)
 
@@ -531,9 +531,9 @@ Affected scripts:
 
 Affected scripts:
 
-- [Gladiators (Premier 1993) v1.1.1.vbs](Gladiators%20%28Premier%201993%29%20v1.1.1/Gladiators%20%28Premier%201993%29%20v1.1.1.vbs#L344)
-- [Surf'n Safari v1.3.4.vbs](Surf%27n%20Safari%20v1.3.4/Surf%27n%20Safari%20v1.3.4.vbs#L117)
-- [Wipe Out (Premier 1993) 1.1.0.vbs](Wipe%20Out%20%28Premier%201993%29%201.1.0/Wipe%20Out%20%28Premier%201993%29%201.1.0.vbs#L258)
+- Gladiators (Premier 1993) v1.1.1.vbs [[original]](Gladiators%20%28Premier%201993%29%20v1.1.1/Gladiators%20%28Premier%201993%29%20v1.1.1.vbs.original#L344) [[patch]](Gladiators%20%28Premier%201993%29%20v1.1.1/Gladiators%20%28Premier%201993%29%20v1.1.1.vbs.patch) [[patched]](Gladiators%20%28Premier%201993%29%20v1.1.1/Gladiators%20%28Premier%201993%29%20v1.1.1.vbs)
+- Surf'n Safari v1.3.4.vbs [[original]](Surf%27n%20Safari%20v1.3.4/Surf%27n%20Safari%20v1.3.4.vbs.original#L117) [[patch]](Surf%27n%20Safari%20v1.3.4/Surf%27n%20Safari%20v1.3.4.vbs.patch) [[patched]](Surf%27n%20Safari%20v1.3.4/Surf%27n%20Safari%20v1.3.4.vbs)
+- Wipe Out (Premier 1993) 1.1.0.vbs [[original]](Wipe%20Out%20%28Premier%201993%29%201.1.0/Wipe%20Out%20%28Premier%201993%29%201.1.0.vbs.original#L258) [[patch]](Wipe%20Out%20%28Premier%201993%29%201.1.0/Wipe%20Out%20%28Premier%201993%29%201.1.0.vbs.patch) [[patched]](Wipe%20Out%20%28Premier%201993%29%201.1.0/Wipe%20Out%20%28Premier%201993%29%201.1.0.vbs)
 
 ## One-liner If/Then with dangling Else (missing End If)
 
@@ -543,9 +543,9 @@ A single-line `If x Then y: Else` with nothing after the `Else` is syntactically
 
 Affected scripts:
 
-- [South Park (Sega 1999) 1.3.vbs](South%20Park%20%28Sega%201999%29%201.3/South%20Park%20%28Sega%201999%29%201.3.vbs#L1167)
-- [South Park - Halloween.vbs](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs#L49)
-- [Starship Troopers (Sega 1997) VPW Mod v2.0.vbs](Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0/Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0.vbs#L1324)
+- South Park (Sega 1999) 1.3.vbs [[original]](South%20Park%20%28Sega%201999%29%201.3/South%20Park%20%28Sega%201999%29%201.3.vbs.original#L1167) [[patch]](South%20Park%20%28Sega%201999%29%201.3/South%20Park%20%28Sega%201999%29%201.3.vbs.patch) [[patched]](South%20Park%20%28Sega%201999%29%201.3/South%20Park%20%28Sega%201999%29%201.3.vbs)
+- South Park - Halloween.vbs [[original]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs.original#L49) [[patch]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs.patch) [[patched]](South%20Park%20-%20Halloween/South%20Park%20-%20Halloween.vbs)
+- Starship Troopers (Sega 1997) VPW Mod v2.0.vbs [[original]](Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0/Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0.vbs.original#L1324) [[patch]](Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0/Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0.vbs.patch) [[patched]](Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0/Starship%20Troopers%20%28Sega%201997%29%20VPW%20Mod%20v2.0.vbs)
 
 ## Duplicate score function calls removed
 
@@ -555,8 +555,8 @@ The same `AddScore` call was duplicated multiple times in the same event handler
 
 Affected scripts:
 
-- [2104398928_CARtoonsRC(Nailed2021)v1.3.vbs](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs#L841)
-- [Gemini (Gottlieb 1978).vbs](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs#L1173)
+- 2104398928_CARtoonsRC(Nailed2021)v1.3.vbs [[original]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs.original#L841) [[patch]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs.patch) [[patched]](2104398928_CARtoonsRC%28Nailed2021%29v1.3/2104398928_CARtoonsRC%28Nailed2021%29v1.3.vbs)
+- Gemini (Gottlieb 1978).vbs [[original]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs.original#L1173) [[patch]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs.patch) [[patched]](Gemini%20%28Gottlieb%201978%29/Gemini%20%28Gottlieb%201978%29.vbs)
 
 ## 'default' reserved word conflict fixed (Const default = 0 added)
 
@@ -566,8 +566,8 @@ Using `default` as a variable name conflicts with VBScript's reserved `Default` 
 
 Affected scripts:
 
-- [Bud and Terence (Original 2024) v1.6.vbs](Bud%20Spencer%20%26%20Terence%20Hill%20%28Original%202024%29/Bud%20and%20Terence%20%28Original%202024%29%20v1.6.vbs#L4386)
-- [IT Pinball Madness (JP Salas,Joe Picasso)1.2.vbs](IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2/IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2.vbs#L4870)
+- Bud and Terence (Original 2024) v1.6.vbs [[original]](Bud%20Spencer%20%26%20Terence%20Hill%20%28Original%202024%29/Bud%20and%20Terence%20%28Original%202024%29%20v1.6.vbs.original#L4386) [[patch]](Bud%20Spencer%20%26%20Terence%20Hill%20%28Original%202024%29/Bud%20and%20Terence%20%28Original%202024%29%20v1.6.vbs.patch) [[patched]](Bud%20Spencer%20%26%20Terence%20Hill%20%28Original%202024%29/Bud%20and%20Terence%20%28Original%202024%29%20v1.6.vbs)
+- IT Pinball Madness (JP Salas,Joe Picasso)1.2.vbs [[original]](IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2/IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2.vbs.original#L4870) [[patch]](IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2/IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2.vbs.patch) [[patched]](IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2/IT%20Pinball%20Madness%20%28JP%20Salas%2CJoe%20Picasso%291.2.vbs)
 
 ## BSize/BMass constant renamed to BallSize/BallMass
 
@@ -577,8 +577,8 @@ Affected scripts:
 
 Affected scripts:
 
-- [Cyclone (Williams 1988) 2.0.1.vbs](Cyclone%20%28Williams%201988%29%202.0.1/Cyclone%20%28Williams%201988%29%202.0.1.vbs#L5)
-- [Space Jam (Sega 1996) 1.4 JPJ - Edizzle - TeamPP - JLou.vbs](Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou/Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou.vbs#L7)
+- Cyclone (Williams 1988) 2.0.1.vbs [[original]](Cyclone%20%28Williams%201988%29%202.0.1/Cyclone%20%28Williams%201988%29%202.0.1.vbs.original#L5) [[patch]](Cyclone%20%28Williams%201988%29%202.0.1/Cyclone%20%28Williams%201988%29%202.0.1.vbs.patch) [[patched]](Cyclone%20%28Williams%201988%29%202.0.1/Cyclone%20%28Williams%201988%29%202.0.1.vbs)
+- Space Jam (Sega 1996) 1.4 JPJ - Edizzle - TeamPP - JLou.vbs [[original]](Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou/Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou.vbs.original#L7) [[patch]](Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou/Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou.vbs.patch) [[patched]](Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou/Space%20Jam%20%28Sega%201996%29%201.4%20JPJ%20-%20Edizzle%20-%20TeamPP%20-%20JLou.vbs)
 
 ## OptionsLoad/OptionsEdit call removed (not available in standalone)
 
@@ -588,8 +588,8 @@ Affected scripts:
 
 Affected scripts:
 
-- [Gremlins by Balutito 1.7.vbs](Gremlins%20by%20Balutito%201.7/Gremlins%20by%20Balutito%201.7.vbs#L162)
-- [Victory (Gottlieb 1987) 2.0.2.vbs](Victory%20%28Gottlieb%201987%29%202.0.2/Victory%20%28Gottlieb%201987%29%202.0.2.vbs#L179)
+- Gremlins by Balutito 1.7.vbs [[original]](Gremlins%20by%20Balutito%201.7/Gremlins%20by%20Balutito%201.7.vbs.original#L162) [[patch]](Gremlins%20by%20Balutito%201.7/Gremlins%20by%20Balutito%201.7.vbs.patch) [[patched]](Gremlins%20by%20Balutito%201.7/Gremlins%20by%20Balutito%201.7.vbs)
+- Victory (Gottlieb 1987) 2.0.2.vbs [[original]](Victory%20%28Gottlieb%201987%29%202.0.2/Victory%20%28Gottlieb%201987%29%202.0.2.vbs.original#L179) [[patch]](Victory%20%28Gottlieb%201987%29%202.0.2/Victory%20%28Gottlieb%201987%29%202.0.2.vbs.patch) [[patched]](Victory%20%28Gottlieb%201987%29%202.0.2/Victory%20%28Gottlieb%201987%29%202.0.2.vbs)
 
 ## VPinMAME Settings.Value() call fix
 
@@ -599,8 +599,8 @@ Affected scripts:
 
 Affected scripts:
 
-- [Phantom Of The Opera (Data East 1990) v1.24.vbs](Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24/Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24.vbs#L316)
-- [The Phantom Of The Opera (Data East 1990).vbs](The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29/The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29.vbs#L135)
+- Phantom Of The Opera (Data East 1990) v1.24.vbs [[original]](Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24/Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24.vbs.original#L316) [[patch]](Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24/Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24.vbs.patch) [[patched]](Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24/Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29%20v1.24.vbs)
+- The Phantom Of The Opera (Data East 1990).vbs [[original]](The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29/The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29.vbs.original#L135) [[patch]](The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29/The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29.vbs.patch) [[patched]](The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29/The%20Phantom%20Of%20The%20Opera%20%28Data%20East%201990%29.vbs)
 
 ## FlexDMD configuration added for standalone DMD display
 
@@ -621,8 +621,8 @@ Affected scripts:
 
 Affected scripts:
 
-- [TimonPumbaa.vbs](TimonPumbaa/TimonPumbaa.vbs#L3548)
-- [Wheel of Fortune (Stern 2007) 1.0.vbs](Wheel%20of%20Fortune%20%28Stern%202007%29%201.0/Wheel%20of%20Fortune%20%28Stern%202007%29%201.0.vbs#L10)
+- TimonPumbaa.vbs [[original]](TimonPumbaa/TimonPumbaa.vbs.original#L3548) [[patch]](TimonPumbaa/TimonPumbaa.vbs.patch) [[patched]](TimonPumbaa/TimonPumbaa.vbs)
+- Wheel of Fortune (Stern 2007) 1.0.vbs [[original]](Wheel%20of%20Fortune%20%28Stern%202007%29%201.0/Wheel%20of%20Fortune%20%28Stern%202007%29%201.0.vbs.original#L10) [[patch]](Wheel%20of%20Fortune%20%28Stern%202007%29%201.0/Wheel%20of%20Fortune%20%28Stern%202007%29%201.0.vbs.patch) [[patched]](Wheel%20of%20Fortune%20%28Stern%202007%29%201.0/Wheel%20of%20Fortune%20%28Stern%202007%29%201.0.vbs)
 
 ## CDbl() replaced with CBool() (wrong type conversion)
 
@@ -630,7 +630,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [A-Go-Go (Williams 1966).vbs](A-Go-Go%20%28Williams%201966%29/A-Go-Go%20%28Williams%201966%29.vbs#L1293)
+- A-Go-Go (Williams 1966).vbs [[original]](A-Go-Go%20%28Williams%201966%29/A-Go-Go%20%28Williams%201966%29.vbs.original#L1293) [[patch]](A-Go-Go%20%28Williams%201966%29/A-Go-Go%20%28Williams%201966%29.vbs.patch) [[patched]](A-Go-Go%20%28Williams%201966%29/A-Go-Go%20%28Williams%201966%29.vbs)
 
 ## DisplayTimer.Enabled = DesktopMode fix
 
@@ -640,7 +640,7 @@ Setting `DisplayTimer.Enabled = DesktopMode` assigns a boolean to a timer's Enab
 
 Affected scripts:
 
-- [AceOfSpeed.vbs](AceOfSpeed/AceOfSpeed.vbs#L245)
+- AceOfSpeed.vbs [[original]](AceOfSpeed/AceOfSpeed.vbs.original#L245) [[patch]](AceOfSpeed/AceOfSpeed.vbs.patch) [[patched]](AceOfSpeed/AceOfSpeed.vbs)
 
 ## cvpmDictionary replaced with Scripting.Dictionary
 
@@ -650,7 +650,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Batman66_1.1.0.vbs](Batman66_1.1.0/Batman66_1.1.0.vbs#L93)
+- Batman66_1.1.0.vbs [[original]](Batman66_1.1.0/Batman66_1.1.0.vbs.original#L93) [[patch]](Batman66_1.1.0/Batman66_1.1.0.vbs.patch) [[patched]](Batman66_1.1.0/Batman66_1.1.0.vbs)
 
 ## LinkedTo property must be assigned an Array (not a single object)
 
@@ -660,7 +660,7 @@ The `DropTarget.LinkedTo` property expects an Array of linked targets, not a bar
 
 Affected scripts:
 
-- [Contact (Williams 1978)_Bigus(MOD)1.0.vbs](Contact%20%28Williams%201978%29_Bigus%28MOD%291.0/Contact%20%28Williams%201978%29_Bigus%28MOD%291.0.vbs#L170)
+- Contact (Williams 1978)_Bigus(MOD)1.0.vbs [[original]](Contact%20%28Williams%201978%29_Bigus%28MOD%291.0/Contact%20%28Williams%201978%29_Bigus%28MOD%291.0.vbs.original#L170) [[patch]](Contact%20%28Williams%201978%29_Bigus%28MOD%291.0/Contact%20%28Williams%201978%29_Bigus%28MOD%291.0.vbs.patch) [[patched]](Contact%20%28Williams%201978%29_Bigus%28MOD%291.0/Contact%20%28Williams%201978%29_Bigus%28MOD%291.0.vbs)
 
 ## Const tnob value fix
 
@@ -670,7 +670,7 @@ The `tnob` (total number of balls) constant had an incorrect value, causing ball
 
 Affected scripts:
 
-- [GalaxyPlay_1_2.vbs](GalaxyPlay_1_2/GalaxyPlay_1_2.vbs#L154)
+- GalaxyPlay_1_2.vbs [[original]](GalaxyPlay_1_2/GalaxyPlay_1_2.vbs.original#L154) [[patch]](GalaxyPlay_1_2/GalaxyPlay_1_2.vbs.patch) [[patched]](GalaxyPlay_1_2/GalaxyPlay_1_2.vbs)
 
 ## Code missing newlines between statements (all on one line)
 
@@ -680,7 +680,7 @@ Multiple statements were concatenated onto a single line without newlines, makin
 
 Affected scripts:
 
-- [Iron Maiden (Original 2022) VPW 1.0.12.vbs](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs#L7957)
+- Iron Maiden (Original 2022) VPW 1.0.12.vbs [[original]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs.original#L7957) [[patch]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs.patch) [[patched]](Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12/Iron%20Maiden%20%28Original%202022%29%20VPW%201.0.12.vbs)
 
 ## b2s.vbs GetTextFile replaced with inline B2S helper functions
 
@@ -690,7 +690,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Jungle_Queen.vbs](Jungle_Queen/Jungle_Queen.vbs#L15)
+- Jungle_Queen.vbs [[original]](Jungle_Queen/Jungle_Queen.vbs.original#L15) [[patch]](Jungle_Queen/Jungle_Queen.vbs.patch) [[patched]](Jungle_Queen/Jungle_Queen.vbs)
 
 ## Variable value or array size changed for standalone compatibility
 
@@ -700,7 +700,7 @@ A variable value or array dimension is changed to a value more appropriate for s
 
 Affected scripts:
 
-- [Junk Yard (Williams 1996) v1.83.vbs](Junk%20Yard%20%28Williams%201996%29%20v1.83/Junk%20Yard%20%28Williams%201996%29%20v1.83.vbs#L887)
+- Junk Yard (Williams 1996) v1.83.vbs [[original]](Junk%20Yard%20%28Williams%201996%29%20v1.83/Junk%20Yard%20%28Williams%201996%29%20v1.83.vbs.original#L887) [[patch]](Junk%20Yard%20%28Williams%201996%29%20v1.83/Junk%20Yard%20%28Williams%201996%29%20v1.83.vbs.patch) [[patched]](Junk%20Yard%20%28Williams%201996%29%20v1.83/Junk%20Yard%20%28Williams%201996%29%20v1.83.vbs)
 
 ## Controller.Pause missing assignment (should be = True/False)
 
@@ -710,7 +710,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Legend of Zelda v4.3.vbs](Legend%20of%20Zelda%20v4.3/Legend%20of%20Zelda%20v4.3.vbs#L404)
+- Legend of Zelda v4.3.vbs [[original]](Legend%20of%20Zelda%20v4.3/Legend%20of%20Zelda%20v4.3.vbs.original#L404) [[patch]](Legend%20of%20Zelda%20v4.3/Legend%20of%20Zelda%20v4.3.vbs.patch) [[patched]](Legend%20of%20Zelda%20v4.3/Legend%20of%20Zelda%20v4.3.vbs)
 
 ## Duplicate InitPolarity call removed (second call crashes)
 
@@ -720,7 +720,7 @@ Calling `InitPolarity` twice causes a crash. A duplicate call was present and is
 
 Affected scripts:
 
-- [Party Animal (Bally 1987).vbs](Party%20Animal%20%28Bally%201987%29/Party%20Animal%20%28Bally%201987%29.vbs#L223)
+- Party Animal (Bally 1987).vbs [[original]](Party%20Animal%20%28Bally%201987%29/Party%20Animal%20%28Bally%201987%29.vbs.original#L223) [[patch]](Party%20Animal%20%28Bally%201987%29/Party%20Animal%20%28Bally%201987%29.vbs.patch) [[patched]](Party%20Animal%20%28Bally%201987%29/Party%20Animal%20%28Bally%201987%29.vbs)
 
 ## .AddBall.0 invalid syntax fixed to .AddBall 0
 
@@ -730,7 +730,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [PinballMagic.v1.9.Hybrid.VPX8.vbs](PinballMagic.v1.9.Hybrid.VPX8/PinballMagic.v1.9.Hybrid.VPX8.vbs#L1448)
+- PinballMagic.v1.9.Hybrid.VPX8.vbs [[original]](PinballMagic.v1.9.Hybrid.VPX8/PinballMagic.v1.9.Hybrid.VPX8.vbs.original#L1448) [[patch]](PinballMagic.v1.9.Hybrid.VPX8/PinballMagic.v1.9.Hybrid.VPX8.vbs.patch) [[patched]](PinballMagic.v1.9.Hybrid.VPX8/PinballMagic.v1.9.Hybrid.VPX8.vbs)
 
 ## SolCallback assignment commented out (callback not available in standalone)
 
@@ -740,7 +740,7 @@ A `SolCallback` entry pointing to a helper function that does not exist in stand
 
 Affected scripts:
 
-- [Playboy (Bally 1978).vbs](Playboy%20%28Bally%201978%29/Playboy%20%28Bally%201978%29.vbs#L36)
+- Playboy (Bally 1978).vbs [[original]](Playboy%20%28Bally%201978%29/Playboy%20%28Bally%201978%29.vbs.original#L36) [[patch]](Playboy%20%28Bally%201978%29/Playboy%20%28Bally%201978%29.vbs.patch) [[patched]](Playboy%20%28Bally%201978%29/Playboy%20%28Bally%201978%29.vbs)
 
 ## vpmShowDips call removed (not available in standalone)
 
@@ -750,7 +750,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Playboy (Stern 2002) v1.1.vbs](Playboy%28Stern2002%29v1.1/Playboy%20%28Stern%202002%29%20v1.1.vbs#L652)
+- Playboy (Stern 2002) v1.1.vbs [[original]](Playboy%28Stern2002%29v1.1/Playboy%20%28Stern%202002%29%20v1.1.vbs.original#L652) [[patch]](Playboy%28Stern2002%29v1.1/Playboy%20%28Stern%202002%29%20v1.1.vbs.patch) [[patched]](Playboy%28Stern2002%29v1.1/Playboy%20%28Stern%202002%29%20v1.1.vbs)
 
 ## PlaySoundAt() dot instead of comma separating arguments
 
@@ -760,7 +760,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Ramones (HauntFreaks 2021).vbs](Ramones%20%28HauntFreaks%202021%29/Ramones%20%28HauntFreaks%202021%29.vbs#L802)
+- Ramones (HauntFreaks 2021).vbs [[original]](Ramones%20%28HauntFreaks%202021%29/Ramones%20%28HauntFreaks%202021%29.vbs.original#L802) [[patch]](Ramones%20%28HauntFreaks%202021%29/Ramones%20%28HauntFreaks%202021%29.vbs.patch) [[patched]](Ramones%20%28HauntFreaks%202021%29/Ramones%20%28HauntFreaks%202021%29.vbs)
 
 ## Eval()/Dictionary item double-indexed result (Wine limitation)
 
@@ -770,7 +770,7 @@ Affected scripts:
 
 Affected scripts:
 
-- [Saving Wallden.vbs](Saving%20Wallden/Saving%20Wallden.vbs#L9387)
+- Saving Wallden.vbs [[original]](Saving%20Wallden/Saving%20Wallden.vbs.original#L9387) [[patch]](Saving%20Wallden/Saving%20Wallden.vbs.patch) [[patched]](Saving%20Wallden/Saving%20Wallden.vbs)
 
 ## Object.state = off changed to = 0 (off evaluates to True in VBScript)
 
@@ -780,7 +780,7 @@ In VBScript, the identifier `off` is not defined and evaluates to `Empty`, which
 
 Affected scripts:
 
-- [SpaceRamp (SuperEd) v3.03b.vbs](SpaceRamp%20%28SuperEd%29%20v3.03b/SpaceRamp%20%28SuperEd%29%20v3.03b.vbs#L612)
+- SpaceRamp (SuperEd) v3.03b.vbs [[original]](SpaceRamp%20%28SuperEd%29%20v3.03b/SpaceRamp%20%28SuperEd%29%20v3.03b.vbs.original#L612) [[patch]](SpaceRamp%20%28SuperEd%29%20v3.03b/SpaceRamp%20%28SuperEd%29%20v3.03b.vbs.patch) [[patched]](SpaceRamp%20%28SuperEd%29%20v3.03b/SpaceRamp%20%28SuperEd%29%20v3.03b.vbs)
 
 ## Constant renamed to avoid conflict or improve clarity
 
@@ -790,7 +790,7 @@ A constant name conflicted with a built-in function or property name, or was ren
 
 Affected scripts:
 
-- [Taxi (Williams 1988) VPW v1.2.2.vbs](Taxi%20%28Williams%201988%29%20VPW%20v1.2.2/Taxi%20%28Williams%201988%29%20VPW%20v1.2.2.vbs#L1435)
+- Taxi (Williams 1988) VPW v1.2.2.vbs [[original]](Taxi%20%28Williams%201988%29%20VPW%20v1.2.2/Taxi%20%28Williams%201988%29%20VPW%20v1.2.2.vbs.original#L1435) [[patch]](Taxi%20%28Williams%201988%29%20VPW%20v1.2.2/Taxi%20%28Williams%201988%29%20VPW%20v1.2.2.vbs.patch) [[patched]](Taxi%20%28Williams%201988%29%20VPW%20v1.2.2/Taxi%20%28Williams%201988%29%20VPW%20v1.2.2.vbs)
 
 ## ActiveBall.id replaced with ActiveBall.Uservalue
 
@@ -800,5 +800,5 @@ The `ActiveBall.id` property is not available in VPX Standalone. Scripts that us
 
 Affected scripts:
 
-- [The Rolling Stones (Stern 2011)_Bigus(MOD)3.0.vbs](The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0/The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0.vbs#L268)
+- The Rolling Stones (Stern 2011)_Bigus(MOD)3.0.vbs [[original]](The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0/The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0.vbs.original#L268) [[patch]](The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0/The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0.vbs.patch) [[patched]](The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0/The%20Rolling%20Stones%20%28Stern%202011%29_Bigus%28MOD%293.0.vbs)
 
